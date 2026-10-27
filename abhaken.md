@@ -10,7 +10,7 @@ Die Uhrzeit am Anfang jedes Punkts verbindet ihn mit dem Termin im Kalender, sie
 
 **Di 27.10.**
 
-- [ ] Anki 14:15 + 19:00 · fällige Reviews, dann neue Karten
+- [x] Anki 14:15 + 19:00 · fällige Reviews, dann neue Karten
 - [ ] SMPP 19:20 · Ana 12.6, 9.1; Phys 12.2
 
 **Mi 28.10.**

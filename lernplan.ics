@@ -29,7 +29,7 @@ UID:9404797c961e82053731c5b5808a6094@lernplan-3-semester
 DTSTAMP:20261027T000000Z
 DTSTART;TZID=Europe/Berlin:20261027T141500
 DTEND;TZID=Europe/Berlin:20261027T151500
-SUMMARY:Anki
+SUMMARY:Anki [erledigt]
 DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  metheus).\n2. Danach neue Karten freischalten:\n• SMPP-II-Deck\, 20 Ka
  rten\, in dieser Reihenfolge:\n   – Ana 12.6 – Faszien der Rückenmu
@@ -43,7 +43,7 @@ UID:1ecbdb82e2e9c6d556507060e45172e5@lernplan-3-semester
 DTSTAMP:20261027T000000Z
 DTSTART;TZID=Europe/Berlin:20261027T190000
 DTEND;TZID=Europe/Berlin:20261027T191500
-SUMMARY:Anki
+SUMMARY:Anki [erledigt]
 DESCRIPTION:Fortsetzung des Blocks davor.\n\nAnki-Reviews\n1. Erst alle f
  älligen Reviews (SMPP II und Prometheus).
 TRANSP:OPAQUE
