@@ -10,7 +10,7 @@ In Apple Kalender: Ablage → Neues Kalenderabonnement → Link einfügen → �
 
 - `tagfuertag.md`: Markdown-Export des Tabs „Tag für Tag“ aus dem Lernplan-Dokument
 - `daten.json`: Kurztitel der MSC-Einstiegsfragen, Vorlesungs- und Seminarthemen pro Tag, Präpkurs-Thema pro Woche
-- `build_ics.py`: baut daraus `lernplan.ics`
+- `build_ics.py`: baut daraus `lernplan.ics`. Jeder Termin heißt nur „Anki“, „SMPP“, „ANATOMIE“ oder „SEMESTER“; die Details (Fragen, Karten, Ablauf, Vorlesungen) stehen geordnet in der Beschreibung.
 
 ```
 python3 build_ics.py tagfuertag.md daten.json lernplan.ics
