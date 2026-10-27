@@ -2,6 +2,8 @@
 
 Jeder Tag vom Start am Di 27.10.2026 bis zur MC (ca. 14.02.2027) mit Uhrzeiten aus deinem Stundenplan. Die Regeln dahinter stehen im Haupt-Tab; hier steht nur, was wann dran ist.
 
+Zum Abhaken pro Tag: Abhaken. Abgehakte Punkte stehen nach dem nächsten Kalender-Update mit „\[erledigt\]“ im Kalender.
+
 So liest du die Tabellen:
 
 - **Fragenummern** (z. B. Ana 12.6) sind die SMPP-II-Einstiegsfragen. Welche Frage in welche Woche gehört, übernimmt der Plan direkt aus dem Lernplan im MSC-Trainer („SMPP-II-Woche N“ entspricht dort „Woche N“, dazu Veranstaltung und „Selbststudium“). Jede Frage liegt am Tag ihrer Veranstaltung; Selbststudium-Fragen am Mittwoch der Woche. „Wdh.“ heißt: Die Frage steht im Lernplan des MSC-Trainers ein zweites Mal („aus Woche X“), du beantwortest sie frei und bewertest sie neu. Die SMPP-II-Fragen aus „Nachholen“ im MSC-Trainer (35) arbeitest du bis zum 24.11. ab.

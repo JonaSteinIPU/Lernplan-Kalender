@@ -1,5 +1,9 @@
 # Abhaken
 
+Hake hier ab, was du erledigt hast. Beim nächsten Kalender-Update (jeden Abend um 21:57) steht hinter dem passenden Termin im Kalender „\[erledigt\]“, z. B. „SMPP \[erledigt\]“.
+
+Die Uhrzeit am Anfang jedes Punkts verbindet ihn mit dem Termin im Kalender, sie muss also stehen bleiben. Bei Blöcken mit Fortsetzung stehen beide Startzeiten da, ein Haken markiert beide Termine. Punkte ohne Uhrzeit sind Aufgaben, die unter der Woche nicht gepasst haben und auf Samstag gewandert sind; sie stehen nicht im Kalender.
+
 ## Oktober und November
 
 ### KW 44 · 26.10.–01.11.2026 · SMPP-II-Woche 3
