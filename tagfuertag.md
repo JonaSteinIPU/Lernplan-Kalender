@@ -1,0 +1,213 @@
+# Tag für Tag bis zur MC
+
+Jeder Tag vom Start am Di 27.10.2026 bis zur MC (ca. 14.02.2027) mit Uhrzeiten aus deinem Stundenplan. Die Regeln dahinter stehen im Haupt-Tab; hier steht nur, was wann dran ist.
+
+So liest du die Tabellen:
+
+- **Fragenummern** (z. B. 12.6) sind die Einstiegsfragen aus den MSC-Ausarbeitungen. Welche Frage in welche Woche gehört, übernimmt der Plan direkt aus dem MSC-Trainer (Lernplan „MSC-Woche N“, Veranstaltung und „Selbststudium“). Jede Frage liegt am Tag ihrer Veranstaltung; Selbststudium-Fragen am Mittwoch der Woche. „Wdh.“ heißt: Die Frage steht im MSC-Lernplan ein zweites Mal („aus Woche X“), du beantwortest sie dort frei und bewertest sie neu. Die 35 Fragen aus „Nachholen“ im MSC-Trainer arbeitest du bis zum 24.11. ab.
+- **Kürzel:** Ana = Anatomie, Bio = Biochemie, Phys = Physiologie. Die Nummern entsprechen den MSC-Ausarbeitungen.
+- **Wochenende wie im MSC-Trainer:** Am Samstag schließt du die MSC-Woche ab. Du beantwortest jede Frage der Woche frei und bewertest sie im MSC-Trainer. Danach wiederholst du die „Auch berührt“-Fragen der Woche, aber nur die, die du schon gelernt hast. Am Sonntag gehst du alle Fragen durch, die du in MSC mit „nochmal“ oder „unsicher“ bewertet hast, und machst einen Durchlauf im MSC-Simulator. Es kommen also nur Fragen dran, die du vorher schon hattest. Pro Wiederholung reicht der Kurzüberblick laut, ca. 3 Minuten: Wiederholen geht deutlich schneller als Erstlernen, in Studien unter 2 Minuten pro Konzept ([Rawson & Dunlosky 2022](https://journals.sagepub.com/doi/full/10.1177/09637214221100484)).
+- **Neue Karten** zeigt, welche Karten du an dem Tag freischaltest. MSC-Karten in der Reihenfolge, in der du die Fragen erarbeitet hast, Prometheus-Karten für die Strukturen des Tages. „Anfang“ und „Rest“ beruhen auf einer Schätzung von ca. 33 Karten pro Anatomie-Frage und ca. 21 pro Biochemie- oder Physiologie-Frage; schalte einfach in dieser Reihenfolge frei, bis die Zahl erreicht ist. Die Karten kommen 1–4 Wochen nach der Frage, bis dahin halten die MSC-Bewertungen am Wochenende das Wissen frisch. Fällige Reviews immer zuerst.
+
+Annahmen: 15 Minuten Weg vor und nach jeder Veranstaltung, Mittagspause 12:30–13:00, Lernende spätestens 21:00. Zusätzlich eingetragen: Tutorium am 27.10. (11:30–14:00) und das Kolloquium jeden Dienstag 18:00–18:45 in der Vorlesungszeit. Die Fragen vom Mo 26.10. sind auf den 27.10. gerutscht. Freie Tage: 24.–26.12. und 31.12.–01.01. Laut Stundenplan ist vom 19.12. bis 03.01. kein Unterricht; die letzte Veranstaltung ist am 05.02.
+
+## Oktober und November
+
+### KW 44 · 26.10.–01.11.2026 · MSC-Woche 3
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Di 27.10. | 08:00–10:00 UK · 11:30–14:00 Tutorium · 15:30–17:45 Praktikum · 18:00–18:45 Kolloquium | 14:15–15:15 Anki · 19:00–19:15 Anki (Forts.) · 19:20–20:35 MSC: Ana 12.6, 9.1; Phys 12.2 · **passt nicht, auf Samstag:** Anatomie-Liste (30 min), Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 20: Ana 12.6 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 28.10. | 08:00–09:30 POL 10-2 · 09:30–11:00 POL 10-3 | 11:15–12:30 Anki · 13:00–14:15 MSC: Phys 12.3 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 20: Ana 12.6 (Rest), 9.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 29.10. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC: Ana 8.5, 9.2, 10.1 · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 20: Ana 9.1 (Teil) · Prometheus 10: Strukturen von heute |
+| Fr 30.10. | 08:00–09:30 M10 MUV · 09:45–11:15 Seminar 3.3 · 12:00–13:30 Seminar 3.2 | 13:45–15:00 Anki · 15:05–16:20 MSC: Ana 10.2, 12.3, 12.4 · 16:25–16:55 Anatomie-Liste: 3 Strukturen · 17:00–17:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 20: Ana 9.1 (Rest); Phys 12.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 31.10. | – | 09:00–10:15 Anki · 10:30–12:30 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 8.5, 9.1, 9.2, 10.1, 10.2, 12.3, 12.4, 12.6; Phys 12.2, 12.3 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Ana 12.5; Phys 1.1, 1.2 | MSC 20: Phys 12.2 (Rest), 12.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 01.11. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 MSC-Fragen: Phys 1.3, 1.4; Bio 2.5, 2.6 · Wdh. Ana 10.2 · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 20: Phys 12.3 (Rest); Ana 8.5 (Anfang) |
+
+### KW 45 · 02.11.–08.11.2026 · MSC-Woche 4
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 02.11. | 08:15–09:45 VL · 10:00–11:30 VL · 11:45–13:15 PV | 13:30–14:45 Anki · 14:50–16:05 MSC: Ana 6.5, 32.4, 11.1 · 16:10–16:40 Anatomie-Liste: 3 Strukturen · 16:45–17:15 Vorlesung lesen + 3-Punkte-Abruf | MSC 35: Ana 8.5 (Rest), 9.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 03.11. | 08:00–09:30 Seminar 4.1 · 14:00–16:00 UK · 18:00–18:45 Kolloquium | 09:45–11:00 Anki · 11:05–12:20 MSC: Ana 13.1, 13.2, 13.3 · 13:00–13:30 Anatomie-Liste: 3 Strukturen · 16:15–16:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 35: Ana 9.2 (Rest), 10.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 04.11. | 08:00–09:30 POL 10-3 · 09:30–11:00 POL 10-4 | 11:15–12:30 Anki · 13:00–14:15 MSC: Phys 15.2; Ana 10.4, 11.2 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 35: Ana 10.1 (Rest), 10.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 05.11. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC: Ana 4.1, 4.2, 4.3 · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 35: Ana 10.2 (Rest), 12.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 06.11. | 08:00–09:30 VL · 09:45–12:45 Praktikum · 14:30–16:00 Seminar 4.2 · 16:15–19:15 Praktikum | 13:00–14:15 Anki · 19:30–20:45 MSC: Ana 5.5, 6.1, 6.2 · **passt nicht, auf Samstag:** Anatomie-Liste (30 min), Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 35: Ana 12.3 (Rest), 12.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 07.11. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 4.1, 4.2, 4.3, 5.5, 6.1, 6.2, 6.5, 10.4, 11.1, 11.2, 13.1, 13.2, 13.3, 32.4; Bio 2.5, 2.6; Phys 1.3, 1.4, 15.2 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 12.5 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Ana 6.3, 6.4 · Wdh. Ana 6.5 | MSC 35: Ana 12.4 (Rest), 12.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 08.11. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 MSC-Fragen: Ana 10.3; Bio 2.2; Ana 32.5 · Wdh. Ana 13.1, 13.2, 32.4 · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 35: Ana 12.5 (Rest); Phys 1.1, 1.2 (Anfang) |
+
+### KW 46 · 09.11.–15.11.2026 · MSC-Woche 5
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 09.11. | 08:00–08:15 Einführung · 08:15–09:45 VL · 10:00–11:30 PV · 12:00–13:30 VL | 13:45–15:00 Anki · 15:05–16:20 MSC: Phys 15.1; Ana 1.1; Phys 11.3 · 16:25–16:55 Anatomie-Liste: 3 Strukturen · 17:00–17:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 1.2 (Rest), 1.3, 1.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 10.11. | 14:15–16:15 UK · 18:00–18:45 Kolloquium | 08:00–09:15 Anki · 09:20–10:35 MSC: Nachholen Ana 9.4, 9.5, 7.5 · 10:40–11:10 Anatomie-Liste: 3 Strukturen · 11:15–11:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 1.4 (Rest); Bio 2.5, 2.6 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 11.11. | 08:00–09:30 POL 10-4 · 09:30–11:00 POL 09-1 | 11:15–12:30 Anki · 13:00–14:15 MSC: Phys 11.4 · Nachholen Ana 3.1, 7.4 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Bio 2.6 (Rest); Ana 6.5, 32.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 12.11. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC: Nachholen Ana 7.3, 11.3, 2.1 · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 32.4 (Rest), 11.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 13.11. | 08:00–09:30 M10 MUV · 11:30–13:00 Seminar 1.1 · 13:30–15:00 Seminar 1.2 | 09:45–11:00 Anki · 15:15–16:30 MSC: Phys 11.1, 11.2 · Wdh. Phys 11.3 · 16:35–17:05 Anatomie-Liste: 3 Strukturen · 17:10–17:40 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 11.1 (Rest), 13.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 14.11. | – | 09:00–10:15 Anki · 10:30–12:30 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 1.1, 2.1, 3.1, 7.3, 7.4, 7.5, 9.4, 9.5, 10.3, 11.3, 32.5; Bio 2.2; Phys 11.1, 11.2, 11.3, 11.4, 15.1 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche | MSC 45: Ana 13.1 (Rest), 13.2, 13.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 15.11. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 MSC-Fragen: Nachholen Ana 2.2; Bio 2.1, 2.3; Ana 3.6 · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 13.3 (Rest); Phys 15.2 (Anfang) |
+
+### KW 47 · 16.11.–22.11.2026 · MSC-Woche 6
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 16.11. | 08:00–08:45 VL · 09:00–09:45 VL · 10:15–11:45 PV · 15:30–17:45 Praktikum | 12:00–12:30 Anki · 13:00–13:45 Anki (Forts.) · 13:50–15:05 MSC: Nachholen Ana 7.1, 7.2, 8.1 · 18:00–18:30 Anatomie-Liste: 3 Strukturen · 18:35–19:05 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 15.2 (Rest); Ana 10.4, 11.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 17.11. | 08:30–10:00 Seminar 2.1 · 14:15–16:15 UK · 18:00–18:45 Kolloquium | 10:15–11:30 Anki · 11:35–12:30 MSC: Bio 1.1 · Nachholen Ana 8.2, 9.3 · 13:00–13:20 MSC (Forts.) · 13:25–13:55 Anatomie-Liste: 3 Strukturen · 16:30–17:00 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 11.2 (Rest), 4.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 18.11. | 08:00–09:30 POL 09-1 · 09:30–11:00 POL 09-2 | 11:15–12:30 Anki · 13:00–14:15 MSC: Ana 10.5 · Nachholen Ana 3.5, 8.4 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 4.1 (Rest), 4.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 19.11. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC: Wdh. Ana 2.1, 2.2 · Nachholen Ana 8.3, 3.2 · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 4.2 (Rest), 4.3, 5.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 20.11. | 08:00–09:30 M10 MUV · 10:00–11:30 Praktikum · 12:15–13:45 Seminar 2.2 · 15:45–17:15 Seminar 2.3 | 14:00–15:15 Anki · 17:30–18:45 MSC: Ana 1.2, 1.3 · Wdh. Ana 1.1 · 18:50–19:20 Anatomie-Liste: 3 Strukturen · 19:25–19:55 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 5.5 (Rest), 6.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 21.11. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 1.2, 1.3, 2.2, 3.2, 3.5, 3.6, 7.1, 7.2, 8.1, 8.2, 8.3, 8.4, 9.3, 10.5; Bio 1.1, 2.1, 2.3 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 10.1; Phys 11.3 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Bio 1.3 | MSC 45: Ana 6.1 (Rest), 6.2, 6.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 22.11. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 MSC-Fragen: Nachholen Ana 3.3, 3.4, 5.1, 5.2 · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 6.3 (Rest), 6.4 (Anfang) |
+
+### KW 48 · 23.11.–29.11.2026 · MSC-Woche 7
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 23.11. | 08:15–09:45 PV · 10:15–11:45 VL · 12:00–13:30 VL | 13:45–15:00 Anki · 15:05–16:20 MSC: Nachholen Ana 5.3, 5.4, 12.1 · 16:25–16:55 Anatomie-Liste: 3 Strukturen · 17:00–17:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 6.4 (Rest), 10.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 24.11. | 14:15–16:15 UK · 18:00–18:45 Kolloquium | 08:00–09:15 Anki · 09:20–10:35 MSC: Nachholen Ana 12.2; Phys 12.1, 12.4 · 10:40–11:10 Anatomie-Liste: 3 Strukturen · 11:15–11:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 10.3 (Rest); Bio 2.2; Ana 32.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 25.11. | 08:00–09:30 POL 09-2 · 09:30–11:00 POL 09-3 | 11:15–12:30 Anki · 13:00–14:15 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 32.5 (Rest); Phys 15.1; Ana 1.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 26.11. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 1.1 (Rest); Phys 11.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 27.11. | 08:00–09:30 VL · 10:00–11:30 Praktikum · 14:00–15:30 Praktikum · 16:15–17:45 Seminar 3.1 | 11:45–12:30 Anki · 13:00–13:30 Anki (Forts.) · 18:00–19:15 MSC: Phys 13.1, 13.2, 13.9 · 19:20–19:50 Anatomie-Liste: 3 Strukturen · 19:55–20:25 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 11.3 (Rest); Ana 9.4, 9.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 28.11. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 3.3, 3.4, 5.1, 5.2, 5.3, 5.4, 12.1, 12.2; Phys 12.1, 12.4, 13.1, 13.2, 13.9 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 1.1, 9.2 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche | MSC 45: Ana 9.5 (Rest), 7.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 29.11. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 7.5 (Rest); Phys 11.4; Ana 3.1 (Anfang) |
+
+## Dezember
+
+### KW 49 · 30.11.–06.12.2026 · MSC-Woche 8
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 30.11. | 08:15–09:45 VL · 10:00–11:30 PV · 11:45–13:15 Praktikum · 16:15–17:45 Seminar 4.1 | 13:30–14:45 Anki · 14:50–16:00 MSC: Bio 1.4 · 18:00–18:30 Anatomie-Liste: 3 Strukturen · 18:35–19:05 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 3.1 (Rest), 7.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 01.12. | 14:15–16:15 UK · 18:00–18:45 Kolloquium | 08:00–09:15 Anki · 09:20–10:35 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 10:40–11:10 Anatomie-Liste: 3 Strukturen · 11:15–11:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 7.4 (Rest), 7.3, 11.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 02.12. | 08:00–09:30 POL 09-3 · 09:30–11:00 POL 09-4 · 12:00–14:00 UK | 11:15–11:45 Anki · 14:15–15:00 Anki (Forts.) · 15:05–16:20 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 16:25–16:55 Anatomie-Liste: 2 Strukturen · 17:00–17:30 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 11.3 (Rest), 2.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 03.12. | 08:15–11:30 Präpkurs · 14:00–15:30 Praktikum · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–13:45 Anki · 18:00–18:30 Anki (Forts.) · 18:35–19:50 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 19:55–20:25 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 2.1 (Rest); Phys 11.1, 11.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 04.12. | 08:00–09:30 M09 MUV · 11:30–13:00 Seminar 4.2 · 14:30–16:00 Seminar 4.3 | 09:45–11:00 Anki · 13:15–14:15 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 16:15–16:30 MSC-Block (Forts.) · 16:35–17:05 Anatomie-Liste: 3 Strukturen · 17:10–17:40 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 11.2 (Rest); Ana 2.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 05.12. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Bio 1.4 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 6.1, 6.2, 10.1 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche | MSC 45: Ana 2.2 (Rest); Bio 2.1, 2.3; Ana 3.6 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 06.12. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 3.6 (Rest), 7.1 (Anfang) |
+
+### KW 50 · 07.12.–13.12.2026 · MSC-Woche 9
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 07.12. | 08:15–09:45 VL · 10:00–11:30 M11 MUV · 12:15–13:45 M11 MUV · 14:00–15:30 VL · 15:30–15:45 Einführung · 15:45–16:00 Einführung | 16:15–17:30 Anki · 17:35–18:50 MSC: Phys 5.1, 5.3, 5.7 · 18:55–19:25 Anatomie-Liste: 3 Strukturen · 19:30–20:00 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 7.1 (Rest), 7.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 08.12. | 08:15–09:45 VL · 10:00–11:30 VL · 12:15–13:45 M12 MUV · 14:00–15:30 VL · 18:00–18:45 Kolloquium | 15:45–17:00 Anki · 17:05–17:45 MSC: Ana 18.6; Bio 3.3, 4.13 · 19:00–19:35 MSC (Forts.) · 19:40–20:10 Anatomie-Liste: 3 Strukturen · 20:15–20:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 7.2 (Rest), 8.1; Bio 1.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 09.12. | 10:15–11:45 Präpkurs · 12:15–13:45 PV · 14:00–15:30 PV · 15:45–16:30 M11 MUV | 08:00–09:15 Anki · 09:20–10:00 MSC: Phys 10.3 · 16:45–17:20 MSC (Forts.) · 17:25–17:55 Anatomie-Liste: 2 Strukturen · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Bio 1.1 (Rest); Ana 8.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 10.12. | 08:15–09:45 M10 MUV · 10:00–11:30 VL · 12:15–13:45 M11 MUV · 14:00–15:30 M12 MUV · 16:15–17:45 GäDH | 18:00–18:30 Anatomie-Liste: 2 Strukturen · 18:35–19:50 Anki · 19:55–21:00 MSC: Phys 2.1, 3.3, 3.4 · **passt nicht, auf Samstag:** MSC (10 min), Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 45: Ana 8.2 (Rest), 9.3, 10.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 11.12. | 07:00–07:45 M10 eMUV · 08:15–09:45 M12 MUV · 10:00–11:30 VL · 12:15–13:00 Vortrag · 13:00–13:45 Nachbespr. · 14:00–14:45 M09 MUV | 15:00–16:15 Anki · 16:20–17:35 MSC: Ana 16.9, 17.1, 17.2 · 17:40–18:10 Anatomie-Liste: 3 Strukturen · 18:15–18:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 10.5 (Rest), 3.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 12.12. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 16.9, 17.1, 17.2, 18.6; Bio 3.3, 4.13; Phys 2.1, 3.3, 3.4, 5.1, 5.3, 5.7, 10.3 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Bio 1.4; Phys 1.2 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Bio 1.2 | MSC 45: Ana 3.5 (Rest), 8.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 13.12. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 8.4 (Rest), 8.3, 3.2 (Anfang) |
+
+### KW 51 · 14.12.–20.12.2026 · MSC-Woche 10 · Pause ab Sa 19.12.
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 14.12. | 08:15–09:45 VL · 10:00–11:30 PV · 12:00–13:30 Praktikum · 14:00–15:30 Seminar 1.1 · 16:00–17:30 Seminar 1.2 | 17:45–19:00 Anki · 19:05–20:20 MSC: Ana 18.1, 19.4, 19.2 · 20:25–20:55 Anatomie-Liste: 3 Strukturen · **passt nicht, auf Samstag:** Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 45: Ana 3.2 (Rest), 1.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 15.12. | 08:00–10:00 UK · 18:00–18:45 Kolloquium | 10:15–11:30 Anki · 11:35–12:30 MSC: Ana 19.3; Bio 3.4, 3.5 · 13:00–13:20 MSC (Forts.) · 13:25–13:55 Anatomie-Liste: 3 Strukturen · 14:00–14:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 1.2 (Rest), 1.3; Bio 1.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 16.12. | 08:00–09:30 POL 09-4 · 09:30–11:00 POL 11-1 · 15:30–17:00 Seminar 1.3 | 11:15–12:30 Anki · 13:00–14:15 MSC: Bio 3.6, 5.3; Phys 4.5 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 17:15–17:45 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Bio 1.3 (Rest); Ana 3.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 17.12. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC: Phys 4.6; Ana 19.1; Phys 4.1 · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 3.3 (Rest), 3.4, 5.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 18.12. | 08:00–09:30 Praktikum · 10:45–12:45 Praktikum | 09:45–10:30 Anki · 13:00–13:30 Anki (Forts.) · 13:35–14:50 MSC: Phys 4.3; Ana 18.4 · Wdh. Ana 12.2 · 14:55–15:25 Anatomie-Liste: 3 Strukturen · 15:30–16:00 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 5.1 (Rest), 5.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 19.12. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 18.1, 18.4, 19.1, 19.2, 19.3, 19.4; Bio 3.4, 3.5, 3.6, 5.3; Phys 4.1, 4.3, 4.5, 4.6 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 12.3, 18.6; Phys 1.1 · 13:15–14:05 Anatomie: alte Wochenlisten, leere Tabelle · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Ana 19.5, 21.1, 21.2 | MSC 55: Ana 5.2 (Rest), 5.3, 5.4 (Anfang) |
+| So 20.12. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 MSC-Fragen: Ana 21.3, 21.5, 21.6, 21.7 · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf | MSC 55: Ana 5.4 (Rest), 12.1 (Anfang) |
+
+### KW 52 · 21.12.–27.12.2026 · Weihnachtspause
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 21.12. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Fragen aus der letzten Woche: Ana 21.8, 24.2; Phys 4.4 · 12:00–12:30 Lücken nachlesen · 13:30–14:00 Anatomie: alte Wochenlisten | MSC 55: Ana 12.1 (Rest), 12.2; Phys 12.1 (Anfang) |
+| Di 22.12. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Fragen aus der letzten Woche: Wdh. Phys 4.6 · 12:00–12:30 Lücken nachlesen · 13:30–14:00 Anatomie: alte Wochenlisten | MSC 55: Phys 12.1 (Rest), 12.4, 13.1, 13.2 (Anfang) |
+| Mi 23.12. | – | 09:00–10:15 Anki · 10:30–11:45 Gesamtwiederholung frei beantworten: M10 Biochemie und Physiologie · 12:00–12:30 Lücken daraus nachlesen · 13:30–14:00 Anatomie: alte Wochenlisten | MSC 55: Phys 13.2 (Rest), 13.9; Bio 1.4; Phys 5.1 (Anfang) |
+| Do 24.12. | – | Frei. Nur fällige Anki-Reviews, keine neuen Karten | – |
+| Fr 25.12. | – | Frei. Nur fällige Anki-Reviews, keine neuen Karten | – |
+| Sa 26.12. | – | Frei. Nur fällige Anki-Reviews, keine neuen Karten | – |
+| So 27.12. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf | MSC 55: Phys 5.1 (Rest), 5.3, 5.7 (Anfang) |
+
+### KW 53 · 28.12.–03.01.2027 · Weihnachtspause
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 28.12. | – | 09:00–10:15 Anki · 10:30–11:45 Gesamtwiederholung frei beantworten: M09, alle Fächer · 12:00–12:30 Lücken daraus nachlesen · 13:30–14:00 Anatomie: alte Wochenlisten | MSC 55: Phys 5.7 (Rest); Ana 18.6; Bio 3.3 (Anfang) |
+| Di 29.12. | – | 09:00–10:15 Anki · 10:30–11:45 Gesamtwiederholung frei beantworten: M11 bisher, alle Fächer · 12:00–12:30 Lücken daraus nachlesen · 13:30–14:00 Anatomie: alte Wochenlisten | MSC 55: Bio 3.3 (Rest), 4.13; Phys 10.3, 2.1 (Anfang) |
+| Mi 30.12. | – | 09:00–10:15 Anki · 10:30–11:45 Gesamtwiederholung frei beantworten: M12 bisher, alle Fächer · 12:00–12:30 Lücken daraus nachlesen · 13:30–14:00 Anatomie: alte Wochenlisten | MSC 55: Phys 2.1 (Rest), 3.3, 3.4 (Anfang) |
+| Do 31.12. | – | Frei. Nur fällige Anki-Reviews, keine neuen Karten | – |
+| Fr 01.01. | – | Frei. Nur fällige Anki-Reviews, keine neuen Karten | – |
+| Sa 02.01. | – | 09:00–10:15 Anki · 10:30–12:30 Altthemen frei beantworten und in MSC bewerten · 13:15–14:05 Anatomie: alte Wochenlisten, leere Tabelle · 14:05–14:15 3-Punkte-Zettel der Woche | MSC 55: Phys 3.4 (Rest); Ana 16.9, 17.1 (Anfang) |
+| So 03.01. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf | MSC 55: Ana 17.1 (Rest), 17.2; Bio 1.2 (Anfang) |
+
+## Januar
+
+### KW 1 · 04.01.–10.01.2027 · MSC-Woche 11
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 04.01. | 08:15–09:45 VL · 10:00–11:30 PV · 12:00–13:30 VL | 13:45–15:00 Anki · 15:05–16:20 MSC: Wdh. Phys 4.4 · 16:25–16:55 Anatomie-Liste: 3 Strukturen · 17:00–17:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Bio 1.2 (Rest); Ana 18.1, 19.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 05.01. | 08:00–10:00 UK · 18:00–18:45 Kolloquium | 10:15–11:30 Anki · 11:35–12:30 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 13:00–13:20 MSC-Block (Forts.) · 13:25–13:55 Anatomie-Liste: 3 Strukturen · 14:00–14:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 19.4 (Rest), 19.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 06.01. | 08:00–09:30 POL 11-1 · 09:30–11:00 POL 11-2 · 16:15–17:45 Seminar 2.1 | 11:15–12:30 Anki · 13:00–14:15 MSC: Phys 4.2 · Wdh. Phys 2.1 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 19.2 (Rest), 19.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 07.01. | 08:15–11:30 Präpkurs · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 14:20–15:35 MSC: Ana 19.6, 20.3 · Wdh. Ana 19.5 · 18:00–18:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 19.3 (Rest); Bio 3.4, 3.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 08.01. | 08:00–10:00 Praktikum · 10:15–11:45 Seminar 2.2 · 12:00–13:30 Praktikum · 13:45–15:45 Praktikum · 16:15–17:45 Seminar 2.3 | 18:00–19:15 Anki · 19:20–20:35 MSC: Ana 20.5, 21.4 · Wdh. Ana 21.2; Phys 5.7 · **passt nicht, auf Samstag:** Anatomie-Liste (30 min), Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 45: Bio 3.5 (Rest), 3.6, 5.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 09.01. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 19.6, 20.3, 20.5, 21.4; Phys 4.2 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 10.5, 19.1, 19.2, 21.1, 21.3; Phys 2.1, 4.1, 4.3, 4.4, 4.5, 4.6, 12.1 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Phys 5.8; Ana 18.5 | MSC 45: Bio 5.3 (Rest); Phys 4.5, 4.6; Ana 19.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 10.01. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 19.1 (Rest); Phys 4.1 (Anfang) |
+
+### KW 2 · 11.01.–17.01.2027 · MSC-Woche 12
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 11.01. | 08:00–09:30 VL · 10:00–11:30 PV · 11:45–13:45 Praktikum · 14:00–15:30 Seminar 3.1 · 16:15–17:45 Seminar 3.2 | 18:00–19:15 Anki · 19:20–20:35 MSC: Phys 5.4, 5.5, 5.2 · **passt nicht, auf Samstag:** Anatomie-Liste (30 min), Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 45: Phys 4.1 (Rest), 4.3; Ana 18.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 12.01. | 08:00–10:00 UK · 18:00–18:45 Kolloquium | 10:15–11:30 Anki · 11:35–12:30 MSC: Phys 2.3 · Wdh. Phys 5.3 · 13:00–13:20 MSC (Forts.) · 13:25–13:55 Anatomie-Liste: 3 Strukturen · 14:00–14:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 18.4 (Rest), 19.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 13.01. | 08:00–09:30 POL 11-2 · 09:30–11:00 POL 12-1 · 12:00–14:00 UK | 11:15–11:45 Anki · 14:15–15:00 Anki (Forts.) · 15:05–16:20 MSC: Ana 20.1 · 16:25–16:55 Anatomie-Liste: 2 Strukturen · 17:00–17:30 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 19.5 (Rest), 21.1, 21.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 14.01. | 08:15–11:30 Präpkurs · 14:15–15:45 M11 MUV · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:00 Anki · 18:00–18:15 Anki (Forts.) · 18:20–19:35 MSC: Ana 18.2, 18.3, 20.2 · 19:40–20:10 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 21.2 (Rest), 21.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 15.01. | 08:45–10:15 Seminar 3.3 · 14:00–15:30 Praktikum | 08:00–08:30 Anki · 10:30–11:15 Anki (Forts.) · 11:20–12:30 MSC: Ana 20.4; Phys 5.6 · Wdh. Ana 20.5; Bio 3.3 · 13:00–13:30 Anatomie-Liste: 3 Strukturen · 15:45–16:15 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 21.3 (Rest), 21.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 16.01. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 18.2, 18.3, 20.1, 20.2, 20.4; Phys 2.3, 5.2, 5.4, 5.5, 5.6 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 18.1, 18.5, 18.6, 19.4, 19.6, 20.3, 21.2; Bio 3.3, 3.6; Phys 5.8, 11.3 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Wdh. Ana 20.5 | MSC 45: Ana 21.5 (Rest), 21.6, 21.7 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 17.01. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 21.7 (Rest), 21.8 (Anfang) |
+
+### KW 3 · 18.01.–24.01.2027 · MSC-Woche 13
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 18.01. | 08:15–09:45 VL · 10:00–11:30 PV · 12:00–13:30 VL · 13:45–15:15 Seminar 1.1 | 15:30–16:45 Anki · 16:50–18:05 MSC: Ana 15.1, 15.2, 15.3 · 18:10–18:40 Anatomie-Liste: 3 Strukturen · 18:45–19:15 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 21.8 (Rest), 24.2; Phys 4.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 19.01. | 08:00–10:00 UK · 18:00–18:45 Kolloquium | 10:15–11:30 Anki · 11:35–12:30 MSC: Phys 3.1 · Wdh. Phys 3.4 · 13:00–13:20 MSC (Forts.) · 13:25–13:55 Anatomie-Liste: 3 Strukturen · 14:00–14:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 4.4 (Rest), 4.2; Ana 19.6 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 20.01. | 08:00–09:30 POL 12-1 · 09:30–11:00 POL 12-2 | 11:15–12:30 Anki · 13:00–14:15 MSC: Ana 15.4 · 14:20–14:50 Anatomie-Liste: 2 Strukturen · 14:55–15:25 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 19.6 (Rest), 20.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 21.01. | 08:15–11:30 Präpkurs · 14:30–15:15 M12 MUV · 16:15–17:45 GäDH | 11:45–12:15 Anatomie-Liste: 2 Strukturen · 13:00–14:15 Anki · 15:30–16:00 MSC: Ana 14.1, 14.2 · 18:00–18:45 MSC (Forts.) · 18:50–19:20 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 20.3 (Rest), 20.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 22.01. | 10:00–11:30 Seminar 1.2 · 11:45–13:15 Seminar 1.3 · 14:00–15:30 Praktikum · 16:30–18:00 Praktikum | 08:00–09:15 Anki · 09:20–09:45 MSC: Bio 4.1, 4.2; Phys 10.1 · 15:45–16:15 MSC (Forts.) · 18:15–18:35 MSC (Forts.) · 18:40–19:10 Anatomie-Liste: 3 Strukturen · 19:15–19:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 20.5 (Rest), 21.4; Phys 5.8 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 23.01. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 14.1, 14.2, 15.1, 15.2, 15.3, 15.4; Bio 4.1, 4.2; Phys 3.1, 10.1 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 17.1; Bio 1.4; Phys 3.3, 3.4 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Phys 10.2 · Wdh. Ana 17.1 | MSC 45: Phys 5.8 (Rest); Ana 18.5 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 24.01. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 Puffer, sonst Altthemen · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 18.5 (Rest); Phys 5.4, 5.5, 5.2 (Anfang) |
+
+### KW 4 · 25.01.–31.01.2027 · MSC-Woche 14
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 25.01. | 08:15–09:45 VL · 10:00–11:30 VL · 12:00–13:30 PV · 14:15–15:45 Seminar 2.2 · 16:00–17:30 Seminar 2.3 | 17:45–19:00 Anki · 19:05–20:20 MSC: Phys 10.4; Bio 4.3; Phys 3.2 · 20:25–20:55 Anatomie-Liste: 3 Strukturen · **passt nicht, auf Samstag:** Vorlesung lesen + 3-Punkte-Abruf (30 min) | MSC 45: Phys 5.2 (Rest), 2.3; Ana 20.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 26.01. | 08:00–10:00 UK · 18:00–18:45 Kolloquium | 10:15–11:30 Anki · 11:35–12:30 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 13:00–13:20 MSC-Block (Forts.) · 13:25–13:55 Anatomie-Liste: 3 Strukturen · 14:00–14:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 20.1 (Rest), 18.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 27.01. | 08:00–09:30 POL 12-2 | 09:45–11:00 Anki · 11:05–12:20 MSC: Ana 15.5, 15.6 · 13:00–13:30 Anatomie-Liste: 2 Strukturen · 13:35–14:05 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 18.2 (Rest), 18.3 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 28.01. | 08:15–11:30 Präpkurs · 11:45–13:15 Seminar 2.1 · 14:15–15:45 M12 MUV | 13:30–14:00 Anatomie-Liste: 2 Strukturen · 16:00–17:15 Anki · 17:20–18:35 MSC: Ana 16.1, 16.2, 16.5 · 18:40–19:10 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 18.3 (Rest), 20.2, 20.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 29.01. | 08:15–09:45 Praktikum · 10:15–11:45 Praktikum · 12:00–14:15 Praktikum | 14:30–15:45 Anki · 15:50–17:05 MSC: Ana 16.8; Bio 4.4 · Wdh. Ana 16.9 · 17:10–17:40 Anatomie-Liste: 3 Strukturen · 17:45–18:15 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 20.4 (Rest); Phys 5.6 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 30.01. | – | 09:00–10:15 Anki · 10:30–11:45 MSC-Woche abschließen, frei beantworten und in MSC bewerten: Ana 15.5, 15.6, 16.1, 16.2, 16.5, 16.8; Bio 4.3, 4.4; Phys 3.2, 10.4 · 11:45–12:30 MSC „Auch berührt“ wiederholen: Ana 14.1, 14.2; Bio 3.3, 4.1; Phys 3.1, 3.4, 10.3 · 13:15–14:05 Anatomie: 2 Strukturen + leere Tabelle der Wochenliste · 14:05–14:15 3-Punkte-Zettel der Woche · 14:20–15:35 Fragen, die unter der Woche nicht gepasst haben: Bio 4.5, 4.6 · Wdh. Ana 17.2 | MSC 45: Phys 5.6 (Rest); Ana 15.1, 15.2 (Anfang) · Prometheus 10: Strukturen von heute |
+| So 31.01. | – | 09:00–10:15 Anki · 10:30–11:00 MSC: alle Fragen mit „nochmal“ oder „unsicher“ · 11:00–13:00 MSC-Fragen: Bio 3.1, 3.2 · 14:00–14:30 MSC-Simulator: ein mündlicher Durchlauf · 14:30–14:45 neue Wochenliste anschauen und raten | MSC 45: Ana 15.2 (Rest), 15.3 (Anfang) |
+
+## Februar
+
+### KW 5 · 01.02.–07.02.2027 · MSC-Woche 15 · Endspurt ab Sa 06.02.
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 01.02. | 08:00–09:30 VL · 09:30–11:00 VL · 11:15–12:00 Nachbespr. · 12:15–13:45 PV | 14:00–15:15 Anki · 15:20–16:35 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 16:40–17:10 Anatomie-Liste: 3 Strukturen · 17:15–17:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 15.3 (Rest); Phys 3.1; Ana 15.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Di 02.02. | 08:00–10:00 UK · 11:30–13:30 UK · 18:00–18:45 Kolloquium | 10:15–11:15 Anki · 13:45–14:00 Anki (Forts.) · 14:05–15:20 MSC-Block: frei, Altthemen oder „nochmal“-Fragen · 15:25–15:55 Anatomie-Liste: 3 Strukturen · 16:00–16:30 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Ana 15.4 (Rest), 14.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Mi 03.02. | 11:30–13:00 Seminar 3.1 · 14:00–15:30 Seminar 3.2 | 08:00–09:15 Anki · 09:20–10:35 MSC: Bio 4.7, 4.9; Phys 10.5 · 10:40–11:10 Anatomie-Liste: 2 Strukturen · 13:15–13:45 Vorlesung lesen + 3-Punkte-Abruf · abends 10 min: Wochenliste aus dem Kopf (vor dem Präpkurs) | MSC 45: Ana 14.1 (Rest), 14.2; Bio 4.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Do 04.02. | 08:15–11:30 Präpkurs · 11:45–13:15 Seminar 3.3 | 13:30–14:00 Anatomie-Liste: 2 Strukturen · 14:05–15:20 Anki · 15:25–16:40 MSC: Bio 4.10, 4.11, 4.8 · 16:45–17:15 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Bio 4.1 (Rest), 4.2; Phys 10.1 (Anfang) · Prometheus 10: Strukturen von heute |
+| Fr 05.02. | 13:15–15:30 Praktikum | 08:00–09:15 Anki · 09:20–10:35 MSC: Ana 16.7, 16.3 · Wdh. Ana 16.1, 16.2 · 10:40–11:10 Anatomie-Liste: 3 Strukturen · 11:15–11:45 Vorlesung lesen + 3-Punkte-Abruf | MSC 45: Phys 10.1 (Rest), 10.2, 10.4 (Anfang) · Prometheus 10: Strukturen von heute |
+| Sa 06.02. | – | 09:00–10:15 Anki · 10:30–12:30 Altfragen kreuzen, gemischt · 13:30–14:30 3D-Abbildungen ohne Beschriftung · 14:30–15:15 Fehler nacharbeiten · 15:20–16:35 letzte MSC-Fragen: Ana 16.4, 16.6, 16.10 | – |
+| So 07.02. | – | 09:00–10:15 Anki · 10:30–12:30 Altfragen kreuzen, gemischt · 13:30–14:30 3D-Abbildungen ohne Beschriftung · 14:30–15:15 Fehler nacharbeiten · 15:20–16:35 letzte MSC-Fragen: Ana 16.11; Bio 4.12 | – |
+
+### KW 6 · 08.02.–14.02.2027 · MC-Endspurt
+
+| Tag | Uni | Lernplan | Neue Karten freischalten |
+| --- | --- | --- | --- |
+| Mo 08.02. | – | 09:00–10:15 Anki · 10:30–11:45 Altfragen kreuzen, gemischt · 13:00–13:45 3D-Abbildungen ohne Beschriftung · 13:50–14:20 Fehler nacharbeiten | – |
+| Di 09.02. | – | 09:00–10:15 Anki · 10:30–11:45 Altfragen kreuzen, gemischt · 13:00–13:45 3D-Abbildungen ohne Beschriftung · 13:50–14:20 Fehler nacharbeiten | – |
+| Mi 10.02. | – | 09:00–10:15 Anki · 10:30–11:45 Altfragen kreuzen, gemischt · 13:00–13:45 3D-Abbildungen ohne Beschriftung · 13:50–14:20 Fehler nacharbeiten | – |
+| Do 11.02. | – | 09:00–10:15 Anki · 10:30–11:45 Altfragen kreuzen, gemischt · 13:00–13:45 3D-Abbildungen ohne Beschriftung · 13:50–14:20 Fehler nacharbeiten | – |
+| Fr 12.02. | – | 09:00–10:15 Anki · 10:30–11:45 Altfragen kreuzen, gemischt · 13:00–13:45 3D-Abbildungen ohne Beschriftung · 13:50–14:20 Fehler nacharbeiten | – |
+| Sa 13.02. | – | 09:00–10:15 Anki · 10:30–11:30 3D-Abbildungen, nur Schwachstellen · danach frei | – |
+| So 14.02. | – | **Semester-MC (ca.)** | – |
+
+Zur MC sind die Karten von etwa 27 Fragen, vor allem aus den letzten Wochen, noch nicht freigeschaltet. Die kommen nach der MC in den Semesterferien dran. Die Fragen des 4. Semesters plane ich, sobald der MSC-Trainer und der neue Stundenplan sie fürs Sommersemester zeigen.

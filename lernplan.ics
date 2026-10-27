@@ -1,0 +1,5003 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lernplan 3. Semester//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lernplan 3. Semester
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9404797c961e82053731c5b5808a6094@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261027T141500
+DTEND;TZID=Europe/Berlin:20261027T151500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 20: Ana 12.6 (Anfang) · Promet
+ heus 10: Strukturen von heute\nFällige Reviews immer zuerst.\nHeute nic
+ ht geschafft\, auf Samstag: Anatomie-Liste (30 min)\, Vorlesung lesen + 
+ 3-Punkte-Abruf (30 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8103ec62c2d260b31f6d6fc0e90994b4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261027T190000
+DTEND;TZID=Europe/Berlin:20261027T191500
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3b0b249e86cef2ddf1b81ad299c281@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261027T192000
+DTEND;TZID=Europe/Berlin:20261027T203500
+SUMMARY:MSC: Ana 12.6 Faszien der Rückenmuskulatur\, Ana 9.1 Trendelenbu
+ rg und Muskelatrophie\, Phys 12.2 Grenzen der Leistung
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 12.6 Faszi
+ en der Rückenmuskulatur\nAna 9.1 Trendelenburg und Muskelatrophie\nPhys
+  12.2 Grenzen der Leistung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c70ad4e49936b44b111d34e5e726fdc3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T111500
+DTEND;TZID=Europe/Berlin:20261028T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 20: Ana 12.6 (Rest)\, 9.1 (Anfa
+ ng) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuers
+ t.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d37b7230ddcdc8dcbadb60be1722c11c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T130000
+DTEND;TZID=Europe/Berlin:20261028T141500
+SUMMARY:MSC: Phys 12.3 Trainierbarkeit
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 12.3 Trai
+ nierbarkeit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ea5edad788a43292b29087b91bbe7a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T142000
+DTEND;TZID=Europe/Berlin:20261028T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4842dbd99bea484009851554b1ba1138@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T145500
+DTEND;TZID=Europe/Berlin:20261028T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Muskelarchitektur und Myofaszialer
+  Apparat\nSeminar 3.1: Skelettmuskelfaser | Anpassung und Plastizität
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b10821ea9d37dfa3bf8dfe9e6605ff@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T204500
+DTEND;TZID=Europe/Berlin:20261028T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:20cb59911631e3c584ad5cfac4f5d068@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261029T114500
+DTEND;TZID=Europe/Berlin:20261029T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2510d1e893aefca0c552e3755b3012d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261029T130000
+DTEND;TZID=Europe/Berlin:20261029T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 20: Ana 9.1 (Teil) · Prometheu
+ s 10: Strukturen von heute\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3002a04d8cf94b4f4dd4acc8a6abd0c7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261029T142000
+DTEND;TZID=Europe/Berlin:20261029T153500
+SUMMARY:MSC: Ana 8.5 Fossa poplitea\, Ana 9.2 Muskellogen und Kompartment
+ syndrom\, Ana 10.1 Gefäß-Nervenstraßen von Ober- und Unterschenkel
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 8.5 Fossa 
+ poplitea\nAna 9.2 Muskellogen und Kompartmentsyndrom\nAna 10.1 Gefäß-N
+ ervenstraßen von Ober- und Unterschenkel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:31d1df7bba5884362543faf1b7174988@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261029T180000
+DTEND;TZID=Europe/Berlin:20261029T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Muskelarchitektur und Myofaszialer
+  Apparat\nSeminar 3.1: Skelettmuskelfaser | Anpassung und Plastizität
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb789fb455455b5b9b84527df0a43020@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261030T134500
+DTEND;TZID=Europe/Berlin:20261030T150000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 20: Ana 9.1 (Rest)\; Phys 12.2 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1040fa9bf1c21d2adc9fbcf3143de4e5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261030T150500
+DTEND;TZID=Europe/Berlin:20261030T162000
+SUMMARY:MSC: Ana 10.2 Arterien der Unterschenkelmuskeln\, Ana 12.3 Eingew
+ anderte Rumpfwandmuskulatur\, Ana 12.4 Der M. erector spinae
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 10.2 Arter
+ ien der Unterschenkelmuskeln\nAna 12.3 Eingewanderte Rumpfwandmuskulatur
+ \nAna 12.4 Der M. erector spinae
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef440b3618950e7589655acc0680441@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261030T162500
+DTEND;TZID=Europe/Berlin:20261030T165500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b05a13f8154cfbe006668056586acd2a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261030T170000
+DTEND;TZID=Europe/Berlin:20261030T173000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 3.3: Der Skelettmuskel im Gesamtorganismus\nS
+ eminar 3.2: Energieversorgung der Muskulatur
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaacafc2606848c4e1fbbd38a0fff091@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261031T090000
+DTEND;TZID=Europe/Berlin:20261031T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 20: Phys 12.2 (Rest)\, 12.3 (An
+ fang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zue
+ rst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b99cf3ec79221065751439ef789cd5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261031T103000
+DTEND;TZID=Europe/Berlin:20261031T123000
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 8.5\, 9.1\, 9.2\, 10.1\, 10.2\, 12.3\, 12.4\, 12.6\; Phys 12.2\, 12.3
+DESCRIPTION:Fragen:\nAna 8.5 Fossa poplitea\nAna 9.1 Trendelenburg und Mu
+ skelatrophie\nAna 9.2 Muskellogen und Kompartmentsyndrom\nAna 10.1 Gefä
+ ß-Nervenstraßen von Ober- und Unterschenkel\nAna 10.2 Arterien der Unt
+ erschenkelmuskeln\nAna 12.3 Eingewanderte Rumpfwandmuskulatur\nAna 12.4 
+ Der M. erector spinae\nAna 12.6 Faszien der Rückenmuskulatur\nPhys 12.2
+  Grenzen der Leistung\nPhys 12.3 Trainierbarkeit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e16708f8aa09947c05c91503ae1b7a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261031T131500
+DTEND;TZID=Europe/Berlin:20261031T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cac4cca4a07265a3c470774745028099@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261031T140500
+DTEND;TZID=Europe/Berlin:20261031T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b1d5e27fb94bf819d91d50323d2cead@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261031T142000
+DTEND;TZID=Europe/Berlin:20261031T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Ana 12.5 Erecto
+ r spinae der Lendenregion und seine Gegenspieler\, Phys 1.1 Elektrophysi
+ ologische Grundlagen\, Phys 1.2 Molekulare Grundlagen
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 12.5 Erect
+ or spinae der Lendenregion und seine Gegenspieler\nPhys 1.1 Elektrophysi
+ ologische Grundlagen\nPhys 1.2 Molekulare Grundlagen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2466e35b9884b54dc34e2c14562c6654@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261101T090000
+DTEND;TZID=Europe/Berlin:20261101T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 20: Phys 12.3 (Rest)\; Ana 8.5 
+ (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1ec9ea1ee0d63bc6474b23ffd36870e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261101T103000
+DTEND;TZID=Europe/Berlin:20261101T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:908668064ebedacd1305270ef5a2b02e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261101T110000
+DTEND;TZID=Europe/Berlin:20261101T130000
+SUMMARY:MSC-Fragen: Phys 1.3\, 1.4\; Bio 2.5\, 2.6 · Wdh. Ana 10.2
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 1.3 Mecha
+ nische Kontraktionsformen\nPhys 1.4 Energieversorgung\nBio 2.5 Energiebe
+ darf des Muskels\nBio 2.6 O₂-Versorgung des Muskels\n[Wdh.] Ana 10.2 A
+ rterien der Unterschenkelmuskeln
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c749b0c2d8055a38ed49ee91ed351ea@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261101T140000
+DTEND;TZID=Europe/Berlin:20261101T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:15976033eabb2201f6762ac0d9c7241b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261101T143000
+DTEND;TZID=Europe/Berlin:20261101T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0da7a8f11e66ccca7ab7dffce4cbb09d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261102T133000
+DTEND;TZID=Europe/Berlin:20261102T144500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 8.5 (Rest)\, 9.2 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e85f3f6050f9376dfbebbd5fe53abd8c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261102T145000
+DTEND;TZID=Europe/Berlin:20261102T160500
+SUMMARY:MSC: Ana 6.5 Plexus brachialis\, Ana 32.4 Rückenmarksegment\, An
+ a 11.1 Das Bewegungssegment
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 6.5 Plexus
+  brachialis\nAna 32.4 Rückenmarksegment\nAna 11.1 Das Bewegungssegment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:71e254382677c3552b1fc043f9514790@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261102T161000
+DTEND;TZID=Europe/Berlin:20261102T164000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd160d9b29e99bf68de25b147a1b9396@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261102T164500
+DTEND;TZID=Europe/Berlin:20261102T171500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Einführung in die motorische Steuerung\nV
+ orlesung: Plexusbildung und peripherer Nerv
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c481277d06c0df44c34c2a71f0ba34c3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T094500
+DTEND;TZID=Europe/Berlin:20261103T110000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 9.2 (Rest)\, 10.1 (Anfa
+ ng) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuers
+ t.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e5e70dc4afb13c1ee4905d53a81bb6d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T110500
+DTEND;TZID=Europe/Berlin:20261103T122000
+SUMMARY:MSC: Ana 13.1 Begrenzung des Foramen intervertebrale\, Ana 13.2 A
+ ufbau und Inhalt des Neuroforamens\, Ana 13.3 Einengung des Neuroforamen
+ s
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 13.1 Begre
+ nzung des Foramen intervertebrale\nAna 13.2 Aufbau und Inhalt des Neurof
+ oramens\nAna 13.3 Einengung des Neuroforamens
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5391c2484c8e06c28a6d17a169c619c8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T130000
+DTEND;TZID=Europe/Berlin:20261103T133000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a094834be1cfcacbf3cfb010cb19443@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T161500
+DTEND;TZID=Europe/Berlin:20261103T164500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 4.1: Grundlagen der Spinalmotorik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d966df62c0085bbf5a864d5756964e1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T111500
+DTEND;TZID=Europe/Berlin:20261104T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 10.1 (Rest)\, 10.2 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1a83524b874731c8975922f440a4fd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T130000
+DTEND;TZID=Europe/Berlin:20261104T141500
+SUMMARY:MSC: Phys 15.2 Eigen- und Fremdreflexe\, Ana 10.4 Ursachen des St
+ eppergangs\, Ana 11.2 Knochen\, Bänder und Muskeln der Wirbelsäule
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 15.2 Eige
+ n- und Fremdreflexe\nAna 10.4 Ursachen des Steppergangs\nAna 11.2 Knoche
+ n\, Bänder und Muskeln der Wirbelsäule
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2fdca44f1e9a31a8ad14d7d205afa3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T142000
+DTEND;TZID=Europe/Berlin:20261104T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a7f0fc5e9e7857f8b6ce2b59546a7b7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T145500
+DTEND;TZID=Europe/Berlin:20261104T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Einführung in die motorische Steu
+ erung\nVorlesung: Plexusbildung und peripherer Nerv\nSeminar 4.1: Grundl
+ agen der Spinalmotorik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe929c5c370eb77a73555f2cbfaaa88@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T204500
+DTEND;TZID=Europe/Berlin:20261104T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d134cdf86da09fe811f47bd0a76e493@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T114500
+DTEND;TZID=Europe/Berlin:20261105T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:950b9ca595d04ba32e5ebccd73cad85e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T130000
+DTEND;TZID=Europe/Berlin:20261105T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 10.2 (Rest)\, 12.3 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1df375e75647d02d7b0058a6c0d50a77@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T142000
+DTEND;TZID=Europe/Berlin:20261105T153500
+SUMMARY:MSC: Ana 4.1 Daumengelenke\, Ana 4.2 Handwurzelgelenke\, Ana 4.3 
+ Fingergelenke
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 4.1 Daumen
+ gelenke\nAna 4.2 Handwurzelgelenke\nAna 4.3 Fingergelenke
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:31f9f423276c33c185b0d3d136b812fb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T180000
+DTEND;TZID=Europe/Berlin:20261105T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Einführung in die motorische Steu
+ erung\nVorlesung: Plexusbildung und peripherer Nerv\nSeminar 4.1: Grundl
+ agen der Spinalmotorik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:459df007f337e604b08250d24cb3906b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261106T130000
+DTEND;TZID=Europe/Berlin:20261106T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 12.3 (Rest)\, 12.4 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.\nHeute nicht geschafft\, auf Samstag: Anatomie-Liste (30 min)\, Vorl
+ esung lesen + 3-Punkte-Abruf (30 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:325cfc68cd34789c4694d29f6dc77542@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261106T193000
+DTEND;TZID=Europe/Berlin:20261106T204500
+SUMMARY:MSC: Ana 5.5 Innervation der Unterarmbeuger\, Ana 6.1 Gefäßstra
+ ßen von Unterarm und Hand\, Ana 6.2 Nervenstraßen von Unterarm und Han
+ d
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 5.5 Innerv
+ ation der Unterarmbeuger\nAna 6.1 Gefäßstraßen von Unterarm und Hand\
+ nAna 6.2 Nervenstraßen von Unterarm und Hand
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:429ba9380d14a1b55c47bb8c2efe466f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T090000
+DTEND;TZID=Europe/Berlin:20261107T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 12.4 (Rest)\, 12.5 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a496f0141450be97238b0ff316202cc0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T103000
+DTEND;TZID=Europe/Berlin:20261107T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 4.1\, 4.2\, 4.3\, 5.5\, 6.1\, 6.2\, 6.5\, 10.4\, 11.1\, 11.2\, 13.1\, 
+ 13.2\, 13.3\, 32.4\; Bio 2.5\, 2.6\; Phys 1.3\, 1.4\, 15.2
+DESCRIPTION:Fragen:\nAna 4.1 Daumengelenke\nAna 4.2 Handwurzelgelenke\nAn
+ a 4.3 Fingergelenke\nAna 5.5 Innervation der Unterarmbeuger\nAna 6.1 Gef
+ äßstraßen von Unterarm und Hand\nAna 6.2 Nervenstraßen von Unterarm 
+ und Hand\nAna 6.5 Plexus brachialis\nAna 10.4 Ursachen des Steppergangs\
+ nAna 11.1 Das Bewegungssegment\nAna 11.2 Knochen\, Bänder und Muskeln d
+ er Wirbelsäule\nAna 13.1 Begrenzung des Foramen intervertebrale\nAna 13
+ .2 Aufbau und Inhalt des Neuroforamens\nAna 13.3 Einengung des Neurofora
+ mens\nAna 32.4 Rückenmarksegment\nBio 2.5 Energiebedarf des Muskels\nBi
+ o 2.6 O₂-Versorgung des Muskels\nPhys 1.3 Mechanische Kontraktionsform
+ en\nPhys 1.4 Energieversorgung\nPhys 15.2 Eigen- und Fremdreflexe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6f06bba9cc1ecb31551aedd269e9971@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T114500
+DTEND;TZID=Europe/Berlin:20261107T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 12.5
+DESCRIPTION:Fragen:\nAna 12.5 Erector spinae der Lendenregion und seine G
+ egenspieler
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab38c9bdc564488fde70431ed93a4c3e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T131500
+DTEND;TZID=Europe/Berlin:20261107T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation | Bewegungsapparat 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:914de2f267563579f2ea77bcb1a2f03d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T140500
+DTEND;TZID=Europe/Berlin:20261107T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:78620b5a53b4b1d045e80c004b2ed359@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261107T142000
+DTEND;TZID=Europe/Berlin:20261107T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Ana 6.3 N. medi
+ anus\, Ana 6.4 Karpaltunnel · Wdh.: Ana 6.5 Plexus brachialis
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 6.3 N. med
+ ianus\nAna 6.4 Karpaltunnel\n[Wdh.] Ana 6.5 Plexus brachialis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:df2569d66cb43db3063acd4731e8dfcf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T090000
+DTEND;TZID=Europe/Berlin:20261108T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 35: Ana 12.5 (Rest)\; Phys 1.1\
+ , 1.2 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d083689a359cda4065138e5d80b686e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T103000
+DTEND;TZID=Europe/Berlin:20261108T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:34e3ad8c2d88da59880abcfc48ef7fa7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T110000
+DTEND;TZID=Europe/Berlin:20261108T130000
+SUMMARY:MSC-Fragen: Ana 10.3\; Bio 2.2\; Ana 32.5 · Wdh. Ana 13.1\, 13.2
+ \, 32.4
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 10.3 N. is
+ chiadicus\nBio 2.2 Osteoporose im Labor\nAna 32.5 Graue und weiße Subst
+ anz\n[Wdh.] Ana 13.1 Begrenzung des Foramen intervertebrale\n[Wdh.] Ana 
+ 13.2 Aufbau und Inhalt des Neuroforamens\n[Wdh.] Ana 32.4 Rückenmarkseg
+ ment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a9a01afc67a670d3d00b70d23d130d1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T140000
+DTEND;TZID=Europe/Berlin:20261108T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e54f2ee319c1bab1bc86ba9f71e4fa@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261108T143000
+DTEND;TZID=Europe/Berlin:20261108T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f89197c8e36303fdf9c0deececcb5d47@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261109T134500
+DTEND;TZID=Europe/Berlin:20261109T150000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 1.2 (Rest)\, 1.3\, 1.4
+  (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer
+  zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:63e59a31f6b2dd49ee797627055f1764@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261109T150500
+DTEND;TZID=Europe/Berlin:20261109T162000
+SUMMARY:MSC: Phys 15.1 H-Welle und M-Welle\, Ana 1.1 Schichten der Haut\,
+  Phys 11.3 Wärmeabgabe
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 15.1 H-We
+ lle und M-Welle\nAna 1.1 Schichten der Haut\nPhys 11.3 Wärmeabgabe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b388bdcf1706bc01b6c52e54b6fd79d2@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261109T162500
+DTEND;TZID=Europe/Berlin:20261109T165500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Hautpräparation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b95357609a7f5f511dd78fd58b61beb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261109T170000
+DTEND;TZID=Europe/Berlin:20261109T173000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Bestens gewappnet: die Schutzfunktionen de
+ r Haut\nVorlesung: Physikalische Einwirkungen auf die Haut und deren pot
+ entielle Folgen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fdd7b92ade005a59159c5d3f56345bcd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T080000
+DTEND;TZID=Europe/Berlin:20261110T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 1.4 (Rest)\; Bio 2.5\,
+  2.6 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews i
+ mmer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3bc6a7bd9d76aafe427c029771eb0ac3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T092000
+DTEND;TZID=Europe/Berlin:20261110T103500
+SUMMARY:MSC: Nachholen: Ana 9.4 Rectus femoris: ein zweigelenkiger Muskel
+ \, Ana 9.5 Kleine Glutealmuskeln im Standbein\, Ana 7.5 Coxa valga und C
+ oxa vara
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 9.4 Rectus femoris: ein zweigelenkiger Muskel\n[Nachholen] Ana 9.5 Kle
+ ine Glutealmuskeln im Standbein\n[Nachholen] Ana 7.5 Coxa valga und Coxa
+  vara
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ccd74d3beb5fdd44124adbbb8f8b9e8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T104000
+DTEND;TZID=Europe/Berlin:20261110T111000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Hautpräparation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7130c1d5b3afe97825ed5195202ee0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T111500
+DTEND;TZID=Europe/Berlin:20261110T114500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bestens gewappnet: die Schutzfunkt
+ ionen der Haut\nVorlesung: Physikalische Einwirkungen auf die Haut und d
+ eren potentielle Folgen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:26168f691d909605989747c6daf07511@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T111500
+DTEND;TZID=Europe/Berlin:20261111T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 2.6 (Rest)\; Ana 6.5\, 
+ 32.4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews i
+ mmer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:feb24d233c985fc7da73f6828d019f1b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T130000
+DTEND;TZID=Europe/Berlin:20261111T141500
+SUMMARY:MSC: Phys 11.4 Thermische Behaglichkeit · Nachholen: Ana 3.1 Pla
+ ttenknochen Scapula\, Ana 7.4 Achsen und Muskeln
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 11.4 Ther
+ mische Behaglichkeit\n[Nachholen] Ana 3.1 Plattenknochen Scapula\n[Nachh
+ olen] Ana 7.4 Achsen und Muskeln
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94d58cb01e1360a26b969bf2676dcb51@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T142000
+DTEND;TZID=Europe/Berlin:20261111T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Hautpräparation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:472075f5b3aa6365fb36817bcd28df96@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T145500
+DTEND;TZID=Europe/Berlin:20261111T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bestens gewappnet: die Schutzfunkt
+ ionen der Haut\nVorlesung: Physikalische Einwirkungen auf die Haut und d
+ eren potentielle Folgen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1223511655c0edd1b1a9df1f0bfb731@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T204500
+DTEND;TZID=Europe/Berlin:20261111T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e48d50c87328a3c94abc7e9d9e9a2b0f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T114500
+DTEND;TZID=Europe/Berlin:20261112T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Hautpräparation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8f788b12fe19f87bad2186e9211fcd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T130000
+DTEND;TZID=Europe/Berlin:20261112T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 32.4 (Rest)\, 11.1 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:760a21bdac15752b27ae4f9878b85ccd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T142000
+DTEND;TZID=Europe/Berlin:20261112T153500
+SUMMARY:MSC: Nachholen: Ana 7.3 Blutversorgung des Hüftgelenks\, Ana 11.
+ 3 Wirbel den Abschnitten zuordnen\, Ana 2.1 Epifasziale Venen
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 7.3 Blutversorgung des Hüftgelenks\n[Nachholen] Ana 11.3 Wirbel den A
+ bschnitten zuordnen\n[Nachholen] Ana 2.1 Epifasziale Venen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:16b0ec5347600a4206d56578f1b9694d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T180000
+DTEND;TZID=Europe/Berlin:20261112T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bestens gewappnet: die Schutzfunkt
+ ionen der Haut\nVorlesung: Physikalische Einwirkungen auf die Haut und d
+ eren potentielle Folgen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6590b4670ee23285a64e9d0238b07a74@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T094500
+DTEND;TZID=Europe/Berlin:20261113T110000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 11.1 (Rest)\, 13.1 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:754d3ce4b944ff700b937b5d30305ab6@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T151500
+DTEND;TZID=Europe/Berlin:20261113T163000
+SUMMARY:MSC: Phys 11.1 Regelkreis der Körpertemperatur\, Phys 11.2 Wärm
+ ebildende Effektoren · Wdh.: Phys 11.3 Wärmeabgabe
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 11.1 Rege
+ lkreis der Körpertemperatur\nPhys 11.2 Wärmebildende Effektoren\n[Wdh.
+ ] Phys 11.3 Wärmeabgabe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf2f87d536ed298741d512a24f8c910@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T163500
+DTEND;TZID=Europe/Berlin:20261113T170500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Hautpräparation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2aad37f5223c5e3460808499470fa5ae@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261113T171000
+DTEND;TZID=Europe/Berlin:20261113T174000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 1.1: Sofort - und Spättypallergien\nSeminar 
+ 1.2: Knallrot oder kreidebleich?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c3f15f7635806cbbd853d5e609adc4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T090000
+DTEND;TZID=Europe/Berlin:20261114T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 13.1 (Rest)\, 13.2\, 13
+ .3 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews imm
+ er zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:64c133aec565852568ed0d0a2e7b9fa0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T103000
+DTEND;TZID=Europe/Berlin:20261114T123000
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 1.1\, 2.1\, 3.1\, 7.3\, 7.4\, 7.5\, 9.4\, 9.5\, 10.3\, 11.3\, 32.5\; B
+ io 2.2\; Phys 11.1\, 11.2\, 11.3\, 11.4\, 15.1
+DESCRIPTION:Fragen:\nAna 1.1 Schichten der Haut\nAna 2.1 Epifasziale Vene
+ n\nAna 3.1 Plattenknochen Scapula\nAna 7.3 Blutversorgung des Hüftgelen
+ ks\nAna 7.4 Achsen und Muskeln\nAna 7.5 Coxa valga und Coxa vara\nAna 9.
+ 4 Rectus femoris: ein zweigelenkiger Muskel\nAna 9.5 Kleine Glutealmuske
+ ln im Standbein\nAna 10.3 N. ischiadicus\nAna 11.3 Wirbel den Abschnitte
+ n zuordnen\nAna 32.5 Graue und weiße Substanz\nBio 2.2 Osteoporose im L
+ abor\nPhys 11.1 Regelkreis der Körpertemperatur\nPhys 11.2 Wärmebilden
+ de Effektoren\nPhys 11.3 Wärmeabgabe\nPhys 11.4 Thermische Behaglichkei
+ t\nPhys 15.1 H-Welle und M-Welle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:198917ca46b64b8613bc97a689f32fc5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T131500
+DTEND;TZID=Europe/Berlin:20261114T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Hautpräparation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:50259ea0167234f9742ab6c3cb06ceda@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261114T140500
+DTEND;TZID=Europe/Berlin:20261114T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d57157819aabcd1d28943d85e5a79ebc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T090000
+DTEND;TZID=Europe/Berlin:20261115T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 13.3 (Rest)\; Phys 15.2
+  (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b245b3dc589530d7f8e9b51d6cfcced@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T103000
+DTEND;TZID=Europe/Berlin:20261115T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a54bb037e66c2aab365d5512b91b41c8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T110000
+DTEND;TZID=Europe/Berlin:20261115T130000
+SUMMARY:MSC-Fragen: Nachholen Ana 2.2\; Bio 2.1\, 2.3\; Ana 3.6
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 2.2 Perforansvenen\n[Nachholen] Bio 2.1 Knochendichte\n[Nachholen] Bio
+  2.3 Cholecalciferol\n[Nachholen] Ana 3.6 Tastbare Knochenpunkte
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:127510651a4dc25b1e5fd3eb9d2b4ca3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T140000
+DTEND;TZID=Europe/Berlin:20261115T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f368d0da37decf7a8149776b0f57d4e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261115T143000
+DTEND;TZID=Europe/Berlin:20261115T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fdac428b717e4049c3cdcb832f99b16@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T120000
+DTEND;TZID=Europe/Berlin:20261116T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 15.2 (Rest)\; Ana 10.4
+ \, 11.2 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Review
+ s immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c907f079eda8857725caabff197e85c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T130000
+DTEND;TZID=Europe/Berlin:20261116T134500
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:251ab90b3df48fe3a520f6315e3bc250@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T135000
+DTEND;TZID=Europe/Berlin:20261116T150500
+SUMMARY:MSC: Nachholen: Ana 7.1 Knochenpunkte und Hüftmuskeln\, Ana 7.2 
+ Gelenkübergreifende Muskelgruppen\, Ana 8.1 Muskelgruppen des Kniegelen
+ ks
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 7.1 Knochenpunkte und Hüftmuskeln\n[Nachholen] Ana 7.2 Gelenkübergre
+ ifende Muskelgruppen\n[Nachholen] Ana 8.1 Muskelgruppen des Kniegelenks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a38872559981811713b58a05f51bd2@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T180000
+DTEND;TZID=Europe/Berlin:20261116T183000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Subkutis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6831031e8e1b1b131b9b670252e42efe@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261116T183500
+DTEND;TZID=Europe/Berlin:20261116T190500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Hautzellen als Synthese- und Wirkort von S
+ ignalmolekülen\nVorlesung: Haare und Hautanhangsgebilde
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f54360845011c58b925413fb1368e9ed@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T101500
+DTEND;TZID=Europe/Berlin:20261117T113000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 11.2 (Rest)\, 4.1 (Anfa
+ ng) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuers
+ t.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd9dc01f60578d10cf00b883d1c0e4eb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T113500
+DTEND;TZID=Europe/Berlin:20261117T123000
+SUMMARY:MSC: Bio 1.1 Hautpigmentierung · Nachholen: Ana 8.2 Bänder und 
+ Menisken\, Ana 9.3 Die Pes-anserinus-Gruppe
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 1.1 Hautpi
+ gmentierung\n[Nachholen] Ana 8.2 Bänder und Menisken\n[Nachholen] Ana 9
+ .3 Die Pes-anserinus-Gruppe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a8052deac720111e2c56d6a4775cc5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T130000
+DTEND;TZID=Europe/Berlin:20261117T132000
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a54c17b3f1e4965a74679f88b567b97a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T132500
+DTEND;TZID=Europe/Berlin:20261117T135500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Subkutis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:deb73df57a71b609a424959f744c2461@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T163000
+DTEND;TZID=Europe/Berlin:20261117T170000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 2.1: Ob blond\, ob braun... Molekularer Aufba
+ u der Haut und Pigmentsynthese
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:74f2cb3f2776b0f5d3d45099dd41f60e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T111500
+DTEND;TZID=Europe/Berlin:20261118T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 4.1 (Rest)\, 4.2 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf568f609b6507817e2dfea9b7ee6015@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T130000
+DTEND;TZID=Europe/Berlin:20261118T141500
+SUMMARY:MSC: Ana 10.5 Varizen der unteren Extremität · Nachholen: Ana 3
+ .5 Freiheitsgrade und Bewegungen\, Ana 8.4 Freiheitsgrade und Gelenktyp
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 10.5 Variz
+ en der unteren Extremität\n[Nachholen] Ana 3.5 Freiheitsgrade und Beweg
+ ungen\n[Nachholen] Ana 8.4 Freiheitsgrade und Gelenktyp
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8201cbec747c12232c0c7778e6e7dd6e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T142000
+DTEND;TZID=Europe/Berlin:20261118T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Subkutis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d27286da1f3864feb3b4cb1b4d63f92@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T145500
+DTEND;TZID=Europe/Berlin:20261118T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Hautzellen als Synthese- und Wirko
+ rt von Signalmolekülen\nVorlesung: Haare und Hautanhangsgebilde\nSemina
+ r 2.1: Ob blond\, ob braun... Molekularer Aufbau der Haut und Pigmentsyn
+ these
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf904993afa328c53f9f2ad34960b410@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261118T204500
+DTEND;TZID=Europe/Berlin:20261118T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ba04431e68b2941bd19d331934a054@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T114500
+DTEND;TZID=Europe/Berlin:20261119T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Subkutis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e536947c971fabc0c375ffdabc11ab8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T130000
+DTEND;TZID=Europe/Berlin:20261119T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 4.2 (Rest)\, 4.3\, 5.5 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:430949edebc33528abed98279f9da998@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T142000
+DTEND;TZID=Europe/Berlin:20261119T153500
+SUMMARY:MSC: Wdh. Ana 2.1\, 2.2 · Nachholen Ana 8.3\, 3.2
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Wdh.] Ana 2.1
+  Epifasziale Venen\n[Wdh.] Ana 2.2 Perforansvenen\n[Nachholen] Ana 8.3 G
+ enu varum und Genu valgum\n[Nachholen] Ana 3.2 Knochen und Bänder
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6af832dca4ff39c370c9195ed80f0bb0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261119T180000
+DTEND;TZID=Europe/Berlin:20261119T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Hautzellen als Synthese- und Wirko
+ rt von Signalmolekülen\nVorlesung: Haare und Hautanhangsgebilde\nSemina
+ r 2.1: Ob blond\, ob braun... Molekularer Aufbau der Haut und Pigmentsyn
+ these
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7370dfd33c21f19b57560a7331220d3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+DTEND;TZID=Europe/Berlin:20261120T151500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 5.5 (Rest)\, 6.1 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:adcb1accf2ada826f9a54feec1124f83@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T173000
+DTEND;TZID=Europe/Berlin:20261120T184500
+SUMMARY:MSC: Ana 1.2 Haut nach Lokalisation\, Ana 1.3 Hautanhangsgebilde 
+ · Wdh.: Ana 1.1 Schichten der Haut
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 1.2 Haut n
+ ach Lokalisation\nAna 1.3 Hautanhangsgebilde\n[Wdh.] Ana 1.1 Schichten d
+ er Haut
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:13784110121053bcad87821d62a2caa7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T185000
+DTEND;TZID=Europe/Berlin:20261120T192000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Subkutis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:201135ecd5365bc520a62fc9309bc244@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T192500
+DTEND;TZID=Europe/Berlin:20261120T195500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 2.2: Grundlagen und Prinzipien der Hautregene
+ ration\nSeminar 2.3: Absorption von Strahlung in der Haut
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:91534fad0a09b237da116ed0d0f7ec71@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T090000
+DTEND;TZID=Europe/Berlin:20261121T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 6.1 (Rest)\, 6.2\, 6.3 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb63eb95abc179c50602c7a487c0de0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T103000
+DTEND;TZID=Europe/Berlin:20261121T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 1.2\, 1.3\, 2.2\, 3.2\, 3.5\, 3.6\, 7.1\, 7.2\, 8.1\, 8.2\, 8.3\, 8.4\
+ , 9.3\, 10.5\; Bio 1.1\, 2.1\, 2.3
+DESCRIPTION:Fragen:\nAna 1.2 Haut nach Lokalisation\nAna 1.3 Hautanhangsg
+ ebilde\nAna 2.2 Perforansvenen\nAna 3.2 Knochen und Bänder\nAna 3.5 Fre
+ iheitsgrade und Bewegungen\nAna 3.6 Tastbare Knochenpunkte\nAna 7.1 Knoc
+ henpunkte und Hüftmuskeln\nAna 7.2 Gelenkübergreifende Muskelgruppen\n
+ Ana 8.1 Muskelgruppen des Kniegelenks\nAna 8.2 Bänder und Menisken\nAna
+  8.3 Genu varum und Genu valgum\nAna 8.4 Freiheitsgrade und Gelenktyp\nA
+ na 9.3 Die Pes-anserinus-Gruppe\nAna 10.5 Varizen der unteren Extremitä
+ t\nBio 1.1 Hautpigmentierung\nBio 2.1 Knochendichte\nBio 2.3 Cholecalcif
+ erol
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:68b46dcb2789c8848c53428d334d22e9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T114500
+DTEND;TZID=Europe/Berlin:20261121T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 10.1\; Phys 11.3
+DESCRIPTION:Fragen:\nAna 10.1 Gefäß-Nervenstraßen von Ober- und Unters
+ chenkel\nPhys 11.3 Wärmeabgabe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea721d563f50442b4d34ba03034ea20@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T131500
+DTEND;TZID=Europe/Berlin:20261121T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Subkutis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb3ab118e6c6f5f53979bb2a3bdf20d8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T140500
+DTEND;TZID=Europe/Berlin:20261121T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7b9822c04c354cccb84f3f78270dd3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261121T142000
+DTEND;TZID=Europe/Berlin:20261121T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Bio 1.3 Hautreg
+ eneration
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 1.3 Hautre
+ generation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e66383e0bf48841a5a172f02db0c51@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261122T090000
+DTEND;TZID=Europe/Berlin:20261122T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 6.3 (Rest)\, 6.4 (Anfan
+ g)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:01d22ea78a83683d7d3ccc3195116fa5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261122T103000
+DTEND;TZID=Europe/Berlin:20261122T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bddbf855af37b3c8315ab39689972a3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261122T110000
+DTEND;TZID=Europe/Berlin:20261122T130000
+SUMMARY:MSC-Fragen: Nachholen Ana 3.3\, 3.4\, 5.1\, 5.2
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 3.3 Kapselapparat\n[Nachholen] Ana 3.4 Rotatorenmanschette\n[Nachholen
+ ] Ana 5.1 Oberarmbeuger\n[Nachholen] Ana 5.2 Oberarmstrecker
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed1ed886a93639c89b5593a6ddaf929b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261122T140000
+DTEND;TZID=Europe/Berlin:20261122T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c22ccc599da2cc8e677434aeb852153@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261122T143000
+DTEND;TZID=Europe/Berlin:20261122T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:83d2545aa7ccce484554f3ca47ba73b5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261123T134500
+DTEND;TZID=Europe/Berlin:20261123T150000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 6.4 (Rest)\, 10.3 (Anfa
+ ng) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuers
+ t.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b93b48106d94bbf1208b98296149e4d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261123T150500
+DTEND;TZID=Europe/Berlin:20261123T162000
+SUMMARY:MSC: Nachholen: Ana 5.3 Oberflächliche Unterarmbeuger\, Ana 5.4 
+ Tiefe Unterarmbeuger\, Ana 12.1 Bauchmuskulatur
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 5.3 Oberflächliche Unterarmbeuger\n[Nachholen] Ana 5.4 Tiefe Unterarm
+ beuger\n[Nachholen] Ana 12.1 Bauchmuskulatur
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:71d9195bbb25db18b25698083155c06b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261123T162500
+DTEND;TZID=Europe/Berlin:20261123T165500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96b8a74cbc744ee9c684e56fb66ed063@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261123T170000
+DTEND;TZID=Europe/Berlin:20261123T173000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Atopisches Ekzem\nVorlesung: Lichenoide un
+ d granulomatöse Hauterkrankungen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4259fa4cb88763bd8b0ba13d871ef1dd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T080000
+DTEND;TZID=Europe/Berlin:20261124T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 10.3 (Rest)\; Bio 2.2\;
+  Ana 32.5 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Revi
+ ews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f32b2d3534a7411db38fb354d10ce108@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T092000
+DTEND;TZID=Europe/Berlin:20261124T103500
+SUMMARY:MSC: Nachholen: Ana 12.2 Brustkorbmuskulatur\, Phys 12.1 Akute Le
+ istungsanpassung\, Phys 12.4 Leistungsdiagnostik
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Nachholen] An
+ a 12.2 Brustkorbmuskulatur\n[Nachholen] Phys 12.1 Akute Leistungsanpassu
+ ng\n[Nachholen] Phys 12.4 Leistungsdiagnostik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a10f6e6d86a11920ca9e0bfa3356d82@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T104000
+DTEND;TZID=Europe/Berlin:20261124T111000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d310289d664b2022faf8d9c66a8652e5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T111500
+DTEND;TZID=Europe/Berlin:20261124T114500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Atopisches Ekzem\nVorlesung: Liche
+ noide und granulomatöse Hauterkrankungen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf0a6262b5625bab8c11a52bf41f0e7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T111500
+DTEND;TZID=Europe/Berlin:20261125T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 32.5 (Rest)\; Phys 15.1
+ \; Ana 1.1 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Rev
+ iews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea644d162a37012d88d3234f4e2c0d1f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T130000
+DTEND;TZID=Europe/Berlin:20261125T141500
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb7ee1d7680f30263f6c05291b0ac68@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T142000
+DTEND;TZID=Europe/Berlin:20261125T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7cf5b1034a45aa5babad2b9b4878816@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T145500
+DTEND;TZID=Europe/Berlin:20261125T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Atopisches Ekzem\nVorlesung: Liche
+ noide und granulomatöse Hauterkrankungen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d90e2cbcf1dc034a78b504b0786cba8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T204500
+DTEND;TZID=Europe/Berlin:20261125T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9bb892afc93f8c6998fe43a7ad5a28d8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261126T114500
+DTEND;TZID=Europe/Berlin:20261126T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:58c995716fc91c0cf251f0c518687b68@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261126T130000
+DTEND;TZID=Europe/Berlin:20261126T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 1.1 (Rest)\; Phys 11.3 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:678b05cec9d7a1fd890dc781cd447380@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261126T142000
+DTEND;TZID=Europe/Berlin:20261126T153500
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2824e44c55aec754c92ae978daf12e4d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261126T180000
+DTEND;TZID=Europe/Berlin:20261126T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Atopisches Ekzem\nVorlesung: Liche
+ noide und granulomatöse Hauterkrankungen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9176e9f563ec738f5e01c24bee23480c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T114500
+DTEND;TZID=Europe/Berlin:20261127T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 11.3 (Rest)\; Ana 9.4\
+ , 9.5 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9478799a2e9e9fdf83166e0d305b2666@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T130000
+DTEND;TZID=Europe/Berlin:20261127T133000
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0172f10d02a8a38d85ac0cf6ed0240f9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T180000
+DTEND;TZID=Europe/Berlin:20261127T191500
+SUMMARY:MSC: Phys 13.1 Transduktion und Sensibilisierung\, Phys 13.2 Tast
+ körperchen der Haut\, Phys 13.9 Kontrastverschärfung
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 13.1 Tran
+ sduktion und Sensibilisierung\nPhys 13.2 Tastkörperchen der Haut\nPhys 
+ 13.9 Kontrastverschärfung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:69b75e350d14046155620baae642bc23@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T192000
+DTEND;TZID=Europe/Berlin:20261127T195000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:826c416b56ceda8d8b77a1aba5c61ebd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T195500
+DTEND;TZID=Europe/Berlin:20261127T202500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Periphere Sensibilisierung\nSeminar 3.1: M
+ echanosensoren der Haut
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8006fc6911081ae452b953d75dedbc4c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T090000
+DTEND;TZID=Europe/Berlin:20261128T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 9.5 (Rest)\, 7.5 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cac65811ce450dce76ebcf2ba10b4b30@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T103000
+DTEND;TZID=Europe/Berlin:20261128T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 3.3\, 3.4\, 5.1\, 5.2\, 5.3\, 5.4\, 12.1\, 12.2\; Phys 12.1\, 12.4\, 1
+ 3.1\, 13.2\, 13.9
+DESCRIPTION:Fragen:\nAna 3.3 Kapselapparat\nAna 3.4 Rotatorenmanschette\n
+ Ana 5.1 Oberarmbeuger\nAna 5.2 Oberarmstrecker\nAna 5.3 Oberflächliche 
+ Unterarmbeuger\nAna 5.4 Tiefe Unterarmbeuger\nAna 12.1 Bauchmuskulatur\n
+ Ana 12.2 Brustkorbmuskulatur\nPhys 12.1 Akute Leistungsanpassung\nPhys 1
+ 2.4 Leistungsdiagnostik\nPhys 13.1 Transduktion und Sensibilisierung\nPh
+ ys 13.2 Tastkörperchen der Haut\nPhys 13.9 Kontrastverschärfung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:89b09e7146352acbdc3486bedf4e66ff@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T114500
+DTEND;TZID=Europe/Berlin:20261128T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 1.1\, 9.2
+DESCRIPTION:Fragen:\nAna 1.1 Schichten der Haut\nAna 9.2 Muskellogen und 
+ Kompartmentsyndrom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef50c7f89ce607acbcb8a1fda2682d81@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T131500
+DTEND;TZID=Europe/Berlin:20261128T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b97168718b561ba8904d372b5e6d4aaa@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261128T140500
+DTEND;TZID=Europe/Berlin:20261128T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c422e852a903b03918fe1c33a2eb8076@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T090000
+DTEND;TZID=Europe/Berlin:20261129T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 7.5 (Rest)\; Phys 11.4\
+ ; Ana 3.1 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:09cda463ba9984929f3299b5098cdfe1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T103000
+DTEND;TZID=Europe/Berlin:20261129T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:92f523695cebb838fe1b8cfd843a7651@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T110000
+DTEND;TZID=Europe/Berlin:20261129T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3738379f76cef0f3f3e2019dd2f4fb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T140000
+DTEND;TZID=Europe/Berlin:20261129T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:23f6957dbf91d4b6f8d8d80d107c9d47@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261129T143000
+DTEND;TZID=Europe/Berlin:20261129T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e02d783b8dc468132ed0598f5355a83@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261130T133000
+DTEND;TZID=Europe/Berlin:20261130T144500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 3.1 (Rest)\, 7.4 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cec8d63e618d0f7d934ce45422466f06@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261130T145000
+DTEND;TZID=Europe/Berlin:20261130T160000
+SUMMARY:MSC: Bio 1.4 Barrierefunktion
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 1.4 Barrie
+ refunktion
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d31b35f50b827d35079daa0d2c025add@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261130T180000
+DTEND;TZID=Europe/Berlin:20261130T183000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d74e3ea003b21907100316846918362b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261130T183500
+DTEND;TZID=Europe/Berlin:20261130T190500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Bakteriell bedingte Hautkrankheiten\nSemin
+ ar 4.1: Molekulare Mechanismen der dermalen Abwehr
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d350fdade465677087f63405cf0288f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261201T080000
+DTEND;TZID=Europe/Berlin:20261201T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 7.4 (Rest)\, 7.3\, 11.3
+  (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer
+  zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e031ec571625c82c62eb38ab758f867f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261201T092000
+DTEND;TZID=Europe/Berlin:20261201T103500
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8152e4bc1475fa3d73f1349c0973e3be@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261201T104000
+DTEND;TZID=Europe/Berlin:20261201T111000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:22839c4e02fae0a0d35c702c46811843@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261201T111500
+DTEND;TZID=Europe/Berlin:20261201T114500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bakteriell bedingte Hautkrankheite
+ n\nSeminar 4.1: Molekulare Mechanismen der dermalen Abwehr
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:27a1b13d040acc08ead77bb43ae1adf1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T111500
+DTEND;TZID=Europe/Berlin:20261202T114500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 11.3 (Rest)\, 2.1 (Anfa
+ ng) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuers
+ t.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1b7aec954f03525bc9960a28578079@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T141500
+DTEND;TZID=Europe/Berlin:20261202T150000
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bdcfd92376cc73c51fbd33f954b720c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T150500
+DTEND;TZID=Europe/Berlin:20261202T162000
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b3b6d5fde3cdc791da8c6fdbdceca91@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T162500
+DTEND;TZID=Europe/Berlin:20261202T165500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d3c65b54307ad1c68257ff70fee7fe6@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T170000
+DTEND;TZID=Europe/Berlin:20261202T173000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bakteriell bedingte Hautkrankheite
+ n\nSeminar 4.1: Molekulare Mechanismen der dermalen Abwehr
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:090eaa0a649908f567613c306fb7ef4e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T204500
+DTEND;TZID=Europe/Berlin:20261202T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:08930abec46f11a102ba5501a07d14e8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T114500
+DTEND;TZID=Europe/Berlin:20261203T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b07827e0574a8d423f3e2cc23da7195d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T130000
+DTEND;TZID=Europe/Berlin:20261203T134500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 2.1 (Rest)\; Phys 11.1\
+ , 11.2 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews
+  immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:06dda9e4fa11fee2419159264455309b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T180000
+DTEND;TZID=Europe/Berlin:20261203T183000
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6666f57f9f50273ee57fd29c040676b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T183500
+DTEND;TZID=Europe/Berlin:20261203T195000
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7333c776d77b98996b2ba09d7be4a41d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T195500
+DTEND;TZID=Europe/Berlin:20261203T202500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bakteriell bedingte Hautkrankheite
+ n\nSeminar 4.1: Molekulare Mechanismen der dermalen Abwehr
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e56959c144a5aa3d461fffbb336c4715@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261204T094500
+DTEND;TZID=Europe/Berlin:20261204T110000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 11.2 (Rest)\; Ana 2.2 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5cddcc0c59c40f0860b14f55767f04a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261204T131500
+DTEND;TZID=Europe/Berlin:20261204T141500
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1228a53fb953915f3f0374a596ffa6cd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261204T161500
+DTEND;TZID=Europe/Berlin:20261204T163000
+SUMMARY:MSC-Block (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9875f7abb838f4251a8393051c254891@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261204T163500
+DTEND;TZID=Europe/Berlin:20261204T170500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f9eabd2d39cd4cfb507ffafd149695b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261204T171000
+DTEND;TZID=Europe/Berlin:20261204T174000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 4.2: Grundlagen der medikamentösen Therapie 
+ bei Hauterkrankungen\nSeminar 4.3: Parasiten und Pilze der Haut
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba5b840f9b0a76c089c064387f6a25c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261205T090000
+DTEND;TZID=Europe/Berlin:20261205T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 2.2 (Rest)\; Bio 2.1\, 
+ 2.3\; Ana 3.6 (Anfang) · Prometheus 10: Strukturen von heute\nFällige 
+ Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a639b21803110cdf5aaae504a56c2fc1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261205T103000
+DTEND;TZID=Europe/Berlin:20261205T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: Bi
+ o 1.4
+DESCRIPTION:Fragen:\nBio 1.4 Barrierefunktion
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b19c1a53e4491ecb328e2c250284005f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261205T114500
+DTEND;TZID=Europe/Berlin:20261205T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 6.1\, 6.2\, 10.1
+DESCRIPTION:Fragen:\nAna 6.1 Gefäßstraßen von Unterarm und Hand\nAna 6
+ .2 Nervenstraßen von Unterarm und Hand\nAna 10.1 Gefäß-Nervenstraßen
+  von Ober- und Unterschenkel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9cba13b3d00c014031f3c3afa3961ff4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261205T131500
+DTEND;TZID=Europe/Berlin:20261205T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Anatomische Präparation Woche 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:28dbcc3ab4867c4f503489b649e11f0e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261205T140500
+DTEND;TZID=Europe/Berlin:20261205T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc717c1e851a06ac973b2191b3de95be@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T090000
+DTEND;TZID=Europe/Berlin:20261206T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 3.6 (Rest)\, 7.1 (Anfan
+ g)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:57f67f0e1923e952b0e92e3cea5f7460@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T103000
+DTEND;TZID=Europe/Berlin:20261206T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1292ddee8c20900f1bf3d74d0e945a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T110000
+DTEND;TZID=Europe/Berlin:20261206T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf48775e0f1f18dac2a2362eee7462a3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T140000
+DTEND;TZID=Europe/Berlin:20261206T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed45acbde38b1b9b4ce63b685d08264a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261206T143000
+DTEND;TZID=Europe/Berlin:20261206T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:148bd6f193c852539c7ec1a95880c338@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261207T161500
+DTEND;TZID=Europe/Berlin:20261207T173000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 7.1 (Rest)\, 7.2 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:00956dacf01c3be04c8278e85e5ed32f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261207T173500
+DTEND;TZID=Europe/Berlin:20261207T185000
+SUMMARY:MSC: Phys 5.1 Aufbau des Blutkreislaufs\, Phys 5.3 Hochdrucksyste
+ m\, Phys 5.7 Mikrozirkulation
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 5.1 Aufba
+ u des Blutkreislaufs\nPhys 5.3 Hochdrucksystem\nPhys 5.7 Mikrozirkulatio
+ n
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a65ac363b45b6ca09ed8bc42d169e9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261207T185500
+DTEND;TZID=Europe/Berlin:20261207T192500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Eröffnung von Brust- und Bauchsitus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:115db6de3a531a74a348fde4a844cdbd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261207T193000
+DTEND;TZID=Europe/Berlin:20261207T200000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Aufbau und Funktion des Kreislaufsystems\n
+ Vorlesung: Molekulare und zelluläre Aspekte der Gefäßwandschädigung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:48fe76923afbfd52eda235dfac77391c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T154500
+DTEND;TZID=Europe/Berlin:20261208T170000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 7.2 (Rest)\, 8.1\; Bio 
+ 1.1 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews im
+ mer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:33bd041970ca2846bc878f8f910a3daf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T170500
+DTEND;TZID=Europe/Berlin:20261208T174500
+SUMMARY:MSC: Ana 18.6 Aufbau und Besonderheiten der Aorta\, Bio 3.3 Ather
+ osklerose\, Bio 4.13 Alkoholstoffwechsel
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 18.6 Aufba
+ u und Besonderheiten der Aorta\nBio 3.3 Atherosklerose\nBio 4.13 Alkohol
+ stoffwechsel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd025a14a4aea81e84408263f5a80951@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T190000
+DTEND;TZID=Europe/Berlin:20261208T193500
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce98551ac792f5769b21d33e885de92d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T194000
+DTEND;TZID=Europe/Berlin:20261208T201000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Eröffnung von Brust- und Bauchsitus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e831bc335722782ac2aaf052e14f38ea@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T201500
+DTEND;TZID=Europe/Berlin:20261208T204500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Halt Dein Herz gesund!\nVorlesung: Psychos
+ oziale Einflussfaktoren bei der Entstehung von Herz-Kreislauf-Erkrankung
+ en\nVorlesung: Ernährung im Lebenslauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c82b04845fef91fd5c0c5da2edeff3a5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T080000
+DTEND;TZID=Europe/Berlin:20261209T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 1.1 (Rest)\; Ana 8.2 (A
+ nfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zu
+ erst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:df4fbaa2b89db30a04372382e0f09647@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T092000
+DTEND;TZID=Europe/Berlin:20261209T100000
+SUMMARY:MSC: Phys 10.3 Energiebedarf und Nahrung
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 10.3 Ener
+ giebedarf und Nahrung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:215ebcd5dc67bcc58670142b0152884c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T164500
+DTEND;TZID=Europe/Berlin:20261209T172000
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5869fdb3a78fa15ecd57849b6f2c85@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T172500
+DTEND;TZID=Europe/Berlin:20261209T175500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Eröffnung von Brust- und Bauchsitus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fd6c559dd862fe9936a5edc5afc17c9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T180000
+DTEND;TZID=Europe/Berlin:20261209T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Aufbau und Funktion des Kreislaufs
+ ystems\nVorlesung: Molekulare und zelluläre Aspekte der Gefäßwandsch
+ ädigung\nVorlesung: Halt Dein Herz gesund!\nVorlesung: Psychosoziale Ei
+ nflussfaktoren bei der Entstehung von Herz-Kreislauf-Erkrankungen\nVorle
+ sung: Ernährung im Lebenslauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3293a013adabc44a597548294ed96516@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T204500
+DTEND;TZID=Europe/Berlin:20261209T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3fa9ec6c174d52fb17d9aa364475bcde@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T180000
+DTEND;TZID=Europe/Berlin:20261210T183000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Heute nicht geschafft\, auf Samstag: MSC (10 min)\, Vorlesung
+  lesen + 3-Punkte-Abruf (30 min)\n\nStrukturen aus deiner Wochenliste: U
+ rsprung\, Ansatz\, Innervation erst aus dem Kopf\, dann mit Prometheus a
+ bgleichen.\nPräpkurs diese Woche: Eröffnung von Brust- und Bauchsitus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fadaa424fc62dba220b628fade6999e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T183500
+DTEND;TZID=Europe/Berlin:20261210T195000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 8.2 (Rest)\, 9.3\, 10.5
+  (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer
+  zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:41d275cc89c29c851dcfe6def2b4557e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T195500
+DTEND;TZID=Europe/Berlin:20261210T210000
+SUMMARY:MSC: Phys 2.1 Aufbau des VNS\, Phys 3.3 Motilitätsmuster\, Phys 
+ 3.4 Neuronale und humorale Regulation
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 2.1 Aufba
+ u des VNS\nPhys 3.3 Motilitätsmuster\nPhys 3.4 Neuronale und humorale R
+ egulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1797b8e7cda2b5345d78b89df4731c04@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T150000
+DTEND;TZID=Europe/Berlin:20261211T161500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 10.5 (Rest)\, 3.5 (Anfa
+ ng) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuers
+ t.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:77bfa86df7d0ddc89e9782c34d7bbb28@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T162000
+DTEND;TZID=Europe/Berlin:20261211T173500
+SUMMARY:MSC: Ana 16.9 Vegetative Innervation\, Ana 17.1 Präparat Magen-D
+ arm-Kanal\, Ana 17.2 Präparat Bauchorgan
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 16.9 Veget
+ ative Innervation\nAna 17.1 Präparat Magen-Darm-Kanal\nAna 17.2 Präpar
+ at Bauchorgan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dea37b484ecd5813a5717e7a489799c8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T174000
+DTEND;TZID=Europe/Berlin:20261211T181000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Eröffnung von Brust- und Bauchsitus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a32fb89a58bb01de2a514bd19e7624fa@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T181500
+DTEND;TZID=Europe/Berlin:20261211T184500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: MALT - Grundlagen und klinische Bedeutung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe85997848c220e62fd2fc29221acd3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T090000
+DTEND;TZID=Europe/Berlin:20261212T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 3.5 (Rest)\, 8.4 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0aded594ef293b32c79643da993e3b3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T103000
+DTEND;TZID=Europe/Berlin:20261212T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 16.9\, 17.1\, 17.2\, 18.6\; Bio 3.3\, 4.13\; Phys 2.1\, 3.3\, 3.4\, 5.
+ 1\, 5.3\, 5.7\, 10.3
+DESCRIPTION:Fragen:\nAna 16.9 Vegetative Innervation\nAna 17.1 Präparat 
+ Magen-Darm-Kanal\nAna 17.2 Präparat Bauchorgan\nAna 18.6 Aufbau und Bes
+ onderheiten der Aorta\nBio 3.3 Atherosklerose\nBio 4.13 Alkoholstoffwech
+ sel\nPhys 2.1 Aufbau des VNS\nPhys 3.3 Motilitätsmuster\nPhys 3.4 Neuro
+ nale und humorale Regulation\nPhys 5.1 Aufbau des Blutkreislaufs\nPhys 5
+ .3 Hochdrucksystem\nPhys 5.7 Mikrozirkulation\nPhys 10.3 Energiebedarf u
+ nd Nahrung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:61e2e014d77ab4889594a206c64c756f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T114500
+DTEND;TZID=Europe/Berlin:20261212T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Bio 1.4\; Phys 1.2
+DESCRIPTION:Fragen:\nBio 1.4 Barrierefunktion\nPhys 1.2 Molekulare Grundl
+ agen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:53b3ef80f1035a26f2b77a7f6951d878@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T131500
+DTEND;TZID=Europe/Berlin:20261212T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Eröffnung von Brust- und Bauchsitus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b95fb020178d14cad3a5420d63579a40@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T140500
+DTEND;TZID=Europe/Berlin:20261212T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba54e0971f662220a45139458983cdc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261212T142000
+DTEND;TZID=Europe/Berlin:20261212T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Bio 1.2 Glukoko
+ rtikoide
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 1.2 Glukok
+ ortikoide
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2ec1e4cdaf745b877a9284a2f8b579@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T090000
+DTEND;TZID=Europe/Berlin:20261213T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 8.4 (Rest)\, 8.3\, 3.2 
+ (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee362fc77501101d454129f0c51a7262@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T103000
+DTEND;TZID=Europe/Berlin:20261213T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9c17852709250dcbea5355471ef31e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T110000
+DTEND;TZID=Europe/Berlin:20261213T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0548e6a713d4d8e115dfc7eb15564d1b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T140000
+DTEND;TZID=Europe/Berlin:20261213T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c76ec7da43ae3f114d074b1e69fd8201@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261213T143000
+DTEND;TZID=Europe/Berlin:20261213T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:31e174d6ab29ab52b6d8f2d77427b994@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261214T174500
+DTEND;TZID=Europe/Berlin:20261214T190000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 3.2 (Rest)\, 1.2 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .\nHeute nicht geschafft\, auf Samstag: Vorlesung lesen + 3-Punkte-Abruf
+  (30 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:49e06738eac23e7b2c08d0c904b3a5fc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261214T190500
+DTEND;TZID=Europe/Berlin:20261214T202000
+SUMMARY:MSC: Ana 18.1 Kreislaufumstellung bei der Geburt\, Ana 19.4 Früh
+ e Herzentwicklung\, Ana 19.2 Herzwand und Herzmuskelhistologie
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 18.1 Kreis
+ laufumstellung bei der Geburt\nAna 19.4 Frühe Herzentwicklung\nAna 19.2
+  Herzwand und Herzmuskelhistologie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6cb5284d81b4c4d38162a552e27d88a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261214T202500
+DTEND;TZID=Europe/Berlin:20261214T205500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation von Thoraxwand\, Thoraxhöhlen\, Mediastinum und 
+ Herzbeutel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:41c13cbee5d8bb04acb2b67c6fd55524@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T101500
+DTEND;TZID=Europe/Berlin:20261215T113000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 1.2 (Rest)\, 1.3\; Bio 
+ 1.3 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews im
+ mer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0362a89affc765022b591fcca9f289e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T113500
+DTEND;TZID=Europe/Berlin:20261215T123000
+SUMMARY:MSC: Ana 19.3 Ultrastruktur der Herzmuskelzelle\, Bio 3.4 Anpassu
+ ng an Hypoxie\, Bio 3.5 Myokardstoffwechsel
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 19.3 Ultra
+ struktur der Herzmuskelzelle\nBio 3.4 Anpassung an Hypoxie\nBio 3.5 Myok
+ ardstoffwechsel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d095efb7064802bbcc56b2dc2386edbb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T130000
+DTEND;TZID=Europe/Berlin:20261215T132000
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0eb8fd112e2c9ed54cd088468dcc9c81@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T132500
+DTEND;TZID=Europe/Berlin:20261215T135500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation von Thoraxwand\, Thoraxhöhlen\, Mediastinum und 
+ Herzbeutel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba0f21b354d57562185f42219240509f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T140000
+DTEND;TZID=Europe/Berlin:20261215T143000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Einführung in das Modul Herz und 
+ Kreislaufsystem\nSeminar 1.1: Myokardstoffwechsel unter physiologischen 
+ und ischämischen Bedingungen\nSeminar 1.2: Herzmechanik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cac49850813d1840e4b237c9474715c3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T111500
+DTEND;TZID=Europe/Berlin:20261216T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 1.3 (Rest)\; Ana 3.3 (A
+ nfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zu
+ erst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:818f8cc4286108ee75d1b1334004d746@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T130000
+DTEND;TZID=Europe/Berlin:20261216T141500
+SUMMARY:MSC: Bio 3.6 Infarktdiagnostik\, Bio 5.3 Reaktive Sauerstoffspezi
+ es\, Phys 4.5 Der Herzzyklus
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 3.6 Infark
+ tdiagnostik\nBio 5.3 Reaktive Sauerstoffspezies\nPhys 4.5 Der Herzzyklus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9fa423b4c5629ca2f0fcf628f96a0b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T142000
+DTEND;TZID=Europe/Berlin:20261216T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation von Thoraxwand\, Thoraxhöhlen\, Mediastinum und 
+ Herzbeutel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:23fb8399ef4dce86d1f6e7b417227588@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T171500
+DTEND;TZID=Europe/Berlin:20261216T174500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 1.3: Aktionspotentiale am Herzen und elektrom
+ echanische Kopplung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4b7831ec47624b8c68a327dfdc0986@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T204500
+DTEND;TZID=Europe/Berlin:20261216T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:466692b6dab54b9272371e0d25c88828@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261217T114500
+DTEND;TZID=Europe/Berlin:20261217T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation von Thoraxwand\, Thoraxhöhlen\, Mediastinum und 
+ Herzbeutel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:decfc9be61e1540b15b4cd58735626b3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261217T130000
+DTEND;TZID=Europe/Berlin:20261217T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 3.3 (Rest)\, 3.4\, 5.1 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4847ba1af29f2e63a12bbe1d0bc30db2@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261217T142000
+DTEND;TZID=Europe/Berlin:20261217T153500
+SUMMARY:MSC: Phys 4.6 Regulation der Herztätigkeit\, Ana 19.1 Herzzyklus
+ \, Herztöne und Geräusche\, Phys 4.1 Elektrophysiologie des Herzens
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 4.6 Regul
+ ation der Herztätigkeit\nAna 19.1 Herzzyklus\, Herztöne und Geräusche
+ \nPhys 4.1 Elektrophysiologie des Herzens
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d04fa220b6a13862e63f484a1f71190@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261217T180000
+DTEND;TZID=Europe/Berlin:20261217T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Einführung in das Modul Herz und 
+ Kreislaufsystem\nSeminar 1.1: Myokardstoffwechsel unter physiologischen 
+ und ischämischen Bedingungen\nSeminar 1.2: Herzmechanik\nSeminar 1.3: A
+ ktionspotentiale am Herzen und elektromechanische Kopplung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ecccc404648a70e1aa79b91470e6b98a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T094500
+DTEND;TZID=Europe/Berlin:20261218T103000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 5.1 (Rest)\, 5.2 (Anfan
+ g) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuerst
+ .
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6de56254b6705e893e37b54f3c662c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T130000
+DTEND;TZID=Europe/Berlin:20261218T133000
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:851642370e70d382df524e9b81060541@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T133500
+DTEND;TZID=Europe/Berlin:20261218T145000
+SUMMARY:MSC: Phys 4.3 Elektromechanische Kopplung\, Ana 18.4 Arterien und
+  Venen im Vergleich · Wdh.: Ana 12.2 Brustkorbmuskulatur
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 4.3 Elekt
+ romechanische Kopplung\nAna 18.4 Arterien und Venen im Vergleich\n[Wdh.]
+  Ana 12.2 Brustkorbmuskulatur
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:53401597975fcb07ecd8f2d86bee8984@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T145500
+DTEND;TZID=Europe/Berlin:20261218T152500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation von Thoraxwand\, Thoraxhöhlen\, Mediastinum und 
+ Herzbeutel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:086869e4e9fde6dca46e8633c246c36f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T153000
+DTEND;TZID=Europe/Berlin:20261218T160000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Einführung in das Modul Herz und 
+ Kreislaufsystem\nSeminar 1.1: Myokardstoffwechsel unter physiologischen 
+ und ischämischen Bedingungen\nSeminar 1.2: Herzmechanik\nSeminar 1.3: A
+ ktionspotentiale am Herzen und elektromechanische Kopplung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f765fb0e15edab8cb574306a67edfe50@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T090000
+DTEND;TZID=Europe/Berlin:20261219T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Ana 5.2 (Rest)\, 5.3\, 5.4 
+ (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:515d20ddc17a586ed92bb509681ff01d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T103000
+DTEND;TZID=Europe/Berlin:20261219T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 18.1\, 18.4\, 19.1\, 19.2\, 19.3\, 19.4\; Bio 3.4\, 3.5\, 3.6\, 5.3\; 
+ Phys 4.1\, 4.3\, 4.5\, 4.6
+DESCRIPTION:Fragen:\nAna 18.1 Kreislaufumstellung bei der Geburt\nAna 18.
+ 4 Arterien und Venen im Vergleich\nAna 19.1 Herzzyklus\, Herztöne und G
+ eräusche\nAna 19.2 Herzwand und Herzmuskelhistologie\nAna 19.3 Ultrastr
+ uktur der Herzmuskelzelle\nAna 19.4 Frühe Herzentwicklung\nBio 3.4 Anpa
+ ssung an Hypoxie\nBio 3.5 Myokardstoffwechsel\nBio 3.6 Infarktdiagnostik
+ \nBio 5.3 Reaktive Sauerstoffspezies\nPhys 4.1 Elektrophysiologie des He
+ rzens\nPhys 4.3 Elektromechanische Kopplung\nPhys 4.5 Der Herzzyklus\nPh
+ ys 4.6 Regulation der Herztätigkeit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:26c149dd0b71c473d9d82232b8d69fdf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T114500
+DTEND;TZID=Europe/Berlin:20261219T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 12.3\, 18.6\; Phys 1.1
+DESCRIPTION:Fragen:\nAna 12.3 Eingewanderte Rumpfwandmuskulatur\nAna 18.6
+  Aufbau und Besonderheiten der Aorta\nPhys 1.1 Elektrophysiologische Gru
+ ndlagen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6abc10b3a73733529b3e07ed46302e4d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T131500
+DTEND;TZID=Europe/Berlin:20261219T140500
+SUMMARY:Anatomie: alte Wochenlisten\, leere Tabelle
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation von Thoraxwand\, Thoraxhöhlen\, Mediastinum und 
+ Herzbeutel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:197b9aa4da431139da2d384b2573dd22@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T140500
+DTEND;TZID=Europe/Berlin:20261219T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e920c88c504646d9a7faa4d1914529e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261219T142000
+DTEND;TZID=Europe/Berlin:20261219T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Ana 19.5 Perika
+ rd und Perikardhöhle\, Ana 21.1 Gliederung des Mediastinums\, Ana 21.2 
+ Die großen Gefäße im Mediastinum
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 19.5 Perik
+ ard und Perikardhöhle\nAna 21.1 Gliederung des Mediastinums\nAna 21.2 D
+ ie großen Gefäße im Mediastinum
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c3b9438fab8cab6dd2e888a533eb015@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261220T090000
+DTEND;TZID=Europe/Berlin:20261220T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Ana 5.4 (Rest)\, 12.1 (Anfa
+ ng)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2970aba27a28228afbf26f370f2cf1af@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261220T103000
+DTEND;TZID=Europe/Berlin:20261220T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fef83bf5ff902447500587bdf0664946@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261220T110000
+DTEND;TZID=Europe/Berlin:20261220T130000
+SUMMARY:MSC-Fragen: Ana 21.3\, 21.5\, 21.6\, 21.7
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 21.3 Proje
+ ktion und Auskultation der Herzklappen\nAna 21.5 Das Azygos-System\nAna 
+ 21.6 Die linke Seite des hinteren Mediastinums\nAna 21.7 Der N. phrenicu
+ s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d27a72ce20a7472901dd1f05e7a39baa@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261220T140000
+DTEND;TZID=Europe/Berlin:20261220T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4803f287fb3684d9f587a8a4168d69c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261221T090000
+DTEND;TZID=Europe/Berlin:20261221T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Ana 12.1 (Rest)\, 12.2\; Ph
+ ys 12.1 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0160d8bd263a88f680de1ada5ae68ac9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261221T103000
+DTEND;TZID=Europe/Berlin:20261221T114500
+SUMMARY:MSC-Fragen aus der letzten Woche: Ana 21.8 Nerven im hinteren Med
+ iastinum\, Ana 24.2 Interkostalmuskulatur\, Phys 4.4 Entstehung des EKG
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 21.8 Nerve
+ n im hinteren Mediastinum\nAna 24.2 Interkostalmuskulatur\nPhys 4.4 Ents
+ tehung des EKG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:87135b5698f561666bdb4d64cbc9dc57@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261221T120000
+DTEND;TZID=Europe/Berlin:20261221T123000
+SUMMARY:Lücken nachlesen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ecea03d35d66e15f30b16b918496be2@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261221T133000
+DTEND;TZID=Europe/Berlin:20261221T140000
+SUMMARY:Anatomie: alte Wochenlisten
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5777b90db89896f0b5a18d46b2c9a6@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261222T090000
+DTEND;TZID=Europe/Berlin:20261222T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Phys 12.1 (Rest)\, 12.4\, 1
+ 3.1\, 13.2 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b57b6fce0291998628d83fdfdf087a9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261222T103000
+DTEND;TZID=Europe/Berlin:20261222T114500
+SUMMARY:MSC-Fragen aus der letzten Woche: Wdh.: Phys 4.6 Regulation der H
+ erztätigkeit
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Wdh.] Phys 4.
+ 6 Regulation der Herztätigkeit
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9df6f912d85ef30225c0a984e7534930@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261222T120000
+DTEND;TZID=Europe/Berlin:20261222T123000
+SUMMARY:Lücken nachlesen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0edee977afaaae26316a22b90a3efa4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261222T133000
+DTEND;TZID=Europe/Berlin:20261222T140000
+SUMMARY:Anatomie: alte Wochenlisten
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4bab55d88c56036e187cdd9802abc9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261223T090000
+DTEND;TZID=Europe/Berlin:20261223T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Phys 13.2 (Rest)\, 13.9\; B
+ io 1.4\; Phys 5.1 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5217102e366d5257d4ebc3a9dcd6a0a8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261223T103000
+DTEND;TZID=Europe/Berlin:20261223T114500
+SUMMARY:Gesamtwiederholung frei beantworten: M10 Biochemie und Physiologi
+ e
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d9a87cb03af2c86a310c3b38b47679@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261223T120000
+DTEND;TZID=Europe/Berlin:20261223T123000
+SUMMARY:Lücken daraus nachlesen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e031eecdc29f2a5b236b401172d893d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261223T133000
+DTEND;TZID=Europe/Berlin:20261223T140000
+SUMMARY:Anatomie: alte Wochenlisten
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a08b18aeff3a5905f10a58225d99512a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261224T090000
+DTEND;TZID=Europe/Berlin:20261224T094500
+SUMMARY:Anki: nur fällige Reviews
+DESCRIPTION:Freier Tag\, keine neuen Karten.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c447264864c4c5ba6ecd9cca4749052e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261225T090000
+DTEND;TZID=Europe/Berlin:20261225T094500
+SUMMARY:Anki: nur fällige Reviews
+DESCRIPTION:Freier Tag\, keine neuen Karten.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1980335691d8e1f909ba114891c40e4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261226T090000
+DTEND;TZID=Europe/Berlin:20261226T094500
+SUMMARY:Anki: nur fällige Reviews
+DESCRIPTION:Freier Tag\, keine neuen Karten.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa255b528dd30e74839a4525305fd991@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261227T090000
+DTEND;TZID=Europe/Berlin:20261227T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Phys 5.1 (Rest)\, 5.3\, 5.7
+  (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2427683bed8cda565ed9d8ab986a2bbe@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261227T103000
+DTEND;TZID=Europe/Berlin:20261227T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:13c92ffd28457aa98be5b173776057d3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261227T110000
+DTEND;TZID=Europe/Berlin:20261227T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb40a1b943207efdf01c10e35ff186f5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261227T140000
+DTEND;TZID=Europe/Berlin:20261227T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b9b1391010f64ae1daa9a2ffbcedaf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261228T090000
+DTEND;TZID=Europe/Berlin:20261228T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Phys 5.7 (Rest)\; Ana 18.6\
+ ; Bio 3.3 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:edcd4557ae9b1134adc0c0c4694c3673@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261228T103000
+DTEND;TZID=Europe/Berlin:20261228T114500
+SUMMARY:Gesamtwiederholung frei beantworten: M09\, alle Fächer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9283c7347f230f3dda4c8388d12924de@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261228T120000
+DTEND;TZID=Europe/Berlin:20261228T123000
+SUMMARY:Lücken daraus nachlesen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ad1f84caacaf41076469b93d26783e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261228T133000
+DTEND;TZID=Europe/Berlin:20261228T140000
+SUMMARY:Anatomie: alte Wochenlisten
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa158da8b82f28c91c322413dbebb411@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261229T090000
+DTEND;TZID=Europe/Berlin:20261229T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Bio 3.3 (Rest)\, 4.13\; Phy
+ s 10.3\, 2.1 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e06a8384ba243063b10c382e2b48c78f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261229T103000
+DTEND;TZID=Europe/Berlin:20261229T114500
+SUMMARY:Gesamtwiederholung frei beantworten: M11 bisher\, alle Fächer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b928c3bb32b7f0a31ca71f3c3b2b58e8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261229T120000
+DTEND;TZID=Europe/Berlin:20261229T123000
+SUMMARY:Lücken daraus nachlesen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e01119e689be8edbe249435b010df32@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261229T133000
+DTEND;TZID=Europe/Berlin:20261229T140000
+SUMMARY:Anatomie: alte Wochenlisten
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e273bb4976d958f69bc944602a9631e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261230T090000
+DTEND;TZID=Europe/Berlin:20261230T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Phys 2.1 (Rest)\, 3.3\, 3.4
+  (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf708d5272ad4a392133a3e610fe83e4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261230T103000
+DTEND;TZID=Europe/Berlin:20261230T114500
+SUMMARY:Gesamtwiederholung frei beantworten: M12 bisher\, alle Fächer
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3c120c639b0c522c498052da203bb1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261230T120000
+DTEND;TZID=Europe/Berlin:20261230T123000
+SUMMARY:Lücken daraus nachlesen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0024de731f135382e5e64d09122b2bdd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261230T133000
+DTEND;TZID=Europe/Berlin:20261230T140000
+SUMMARY:Anatomie: alte Wochenlisten
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc06e024ef1a88074bb17159c45a5833@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261231T090000
+DTEND;TZID=Europe/Berlin:20261231T094500
+SUMMARY:Anki: nur fällige Reviews
+DESCRIPTION:Freier Tag\, keine neuen Karten.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:394156bb75659e7c2a9f9fc4c97f8e52@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270101T090000
+DTEND;TZID=Europe/Berlin:20270101T094500
+SUMMARY:Anki: nur fällige Reviews
+DESCRIPTION:Freier Tag\, keine neuen Karten.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aff52616e512ce206345e3e232640388@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270102T090000
+DTEND;TZID=Europe/Berlin:20270102T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Phys 3.4 (Rest)\; Ana 16.9\
+ , 17.1 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05b01192e5720dd4d7b37b12609b570e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270102T103000
+DTEND;TZID=Europe/Berlin:20270102T123000
+SUMMARY:Altthemen frei beantworten und in MSC bewerten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e99cf3d2a182c8c32e63f4ba2195b1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270102T131500
+DTEND;TZID=Europe/Berlin:20270102T140500
+SUMMARY:Anatomie: alte Wochenlisten\, leere Tabelle
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6197ad1e7c5d4d03d43d198e2e38426a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270102T140500
+DTEND;TZID=Europe/Berlin:20270102T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d232fd0029ba5bfb144b4b5a16390148@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270103T090000
+DTEND;TZID=Europe/Berlin:20270103T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 55: Ana 17.1 (Rest)\, 17.2\; Bi
+ o 1.2 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e902ceef656e657015eb40eceb945306@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270103T103000
+DTEND;TZID=Europe/Berlin:20270103T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:67c9067969f917d041006af407935c4a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270103T110000
+DTEND;TZID=Europe/Berlin:20270103T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:49f7fbc6c4d8602b70efffb71c7e266a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270103T140000
+DTEND;TZID=Europe/Berlin:20270103T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:877ebc4489b7d2adf0556522e500baa0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270104T134500
+DTEND;TZID=Europe/Berlin:20270104T150000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 1.2 (Rest)\; Ana 18.1\,
+  19.4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8aafb104f262ff57e1f78e2ba26726af@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270104T150500
+DTEND;TZID=Europe/Berlin:20270104T162000
+SUMMARY:MSC: Wdh.: Phys 4.4 Entstehung des EKG
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Wdh.] Phys 4.
+ 4 Entstehung des EKG
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b7f2ca2368187c342f1ecfd5a24a273@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270104T162500
+DTEND;TZID=Europe/Berlin:20270104T165500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Mediastinum\, Präparation und Entnahme des Herze
+ ns
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:93b1300fdf36800c5b4d0bb403065337@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270104T170000
+DTEND;TZID=Europe/Berlin:20270104T173000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Elektrokardiogramm (EKG)\nVorlesung: EKG-I
+ nterpretation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b73f1fd011c00b2dbe4bd559d74d71f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270105T101500
+DTEND;TZID=Europe/Berlin:20270105T113000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 19.4 (Rest)\, 19.2 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e396cc8a2539cdce6f5c992e48f0d632@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270105T113500
+DTEND;TZID=Europe/Berlin:20270105T123000
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6be67b03a2eccbe11727a7a707c45f1f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270105T130000
+DTEND;TZID=Europe/Berlin:20270105T132000
+SUMMARY:MSC-Block (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:efc587199b9b2a0bb64253689c6d6c93@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270105T132500
+DTEND;TZID=Europe/Berlin:20270105T135500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Mediastinum\, Präparation und Entnahme des Herze
+ ns
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d0ee0d8af5ea8cec1af5830a6bc228@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270105T140000
+DTEND;TZID=Europe/Berlin:20270105T143000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Elektrokardiogramm (EKG)\nVorlesun
+ g: EKG-Interpretation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:03a456c7734f27a98ac81aef5a467225@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270106T111500
+DTEND;TZID=Europe/Berlin:20270106T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 19.2 (Rest)\, 19.3 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd21c8d2efe8f5977f1e084916f6b1e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270106T130000
+DTEND;TZID=Europe/Berlin:20270106T141500
+SUMMARY:MSC: Phys 4.2 Vegetative Herzinnervation · Wdh.: Phys 2.1 Aufbau
+  des VNS
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 4.2 Veget
+ ative Herzinnervation\n[Wdh.] Phys 2.1 Aufbau des VNS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1086fde17c9ce7328ba13a128a9a892@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270106T142000
+DTEND;TZID=Europe/Berlin:20270106T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Mediastinum\, Präparation und Entnahme des Herze
+ ns
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b1d3bb2cd3313e2d3040794c0c0eaf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270106T145500
+DTEND;TZID=Europe/Berlin:20270106T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 2.1: Steuerung der Herzaktivität
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a27cecb225b334e83d297094bf964354@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270106T204500
+DTEND;TZID=Europe/Berlin:20270106T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e59bdb4504bc32533a7bb5498ceb7dc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270107T114500
+DTEND;TZID=Europe/Berlin:20270107T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Mediastinum\, Präparation und Entnahme des Herze
+ ns
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9951aeced029e0f8aa31bee864b4a08e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270107T130000
+DTEND;TZID=Europe/Berlin:20270107T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 19.3 (Rest)\; Bio 3.4\,
+  3.5 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews i
+ mmer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a24ccb42dc90343970ac5c6a62b9a21e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270107T142000
+DTEND;TZID=Europe/Berlin:20270107T153500
+SUMMARY:MSC: Ana 19.6 Die vier Herzklappen\, Ana 20.3 Venöser Abfluss au
+ s dem Herzmuskel · Wdh.: Ana 19.5 Perikard und Perikardhöhle
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 19.6 Die v
+ ier Herzklappen\nAna 20.3 Venöser Abfluss aus dem Herzmuskel\n[Wdh.] An
+ a 19.5 Perikard und Perikardhöhle
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:35a8fd555d4d67678de49a2501a91876@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270107T180000
+DTEND;TZID=Europe/Berlin:20270107T183000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Elektrokardiogramm (EKG)\nVorlesun
+ g: EKG-Interpretation\nSeminar 2.1: Steuerung der Herzaktivität
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b79dbd8f6e1a83a1b3b7f63e590e68a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270108T180000
+DTEND;TZID=Europe/Berlin:20270108T191500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 3.5 (Rest)\, 3.6\, 5.3 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.\nHeute nicht geschafft\, auf Samstag: Anatomie-Liste (30 min)\, 
+ Vorlesung lesen + 3-Punkte-Abruf (30 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:91cb0b25a4628de85425211d535f6d89@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270108T192000
+DTEND;TZID=Europe/Berlin:20270108T203500
+SUMMARY:MSC: Ana 20.5\, 21.4 · Wdh. Ana 21.2\; Phys 5.7
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 20.5 Verla
+ uf der Koronararterien\nAna 21.4 Vegetative Innervation des Herzens\n[Wd
+ h.] Ana 21.2 Die großen Gefäße im Mediastinum\n[Wdh.] Phys 5.7 Mikroz
+ irkulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:53b12367d7da52afe78d4974702f75cb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T090000
+DTEND;TZID=Europe/Berlin:20270109T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 5.3 (Rest)\; Phys 4.5\,
+  4.6\; Ana 19.1 (Anfang) · Prometheus 10: Strukturen von heute\nFällig
+ e Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd800213831b21656afd3d4ccc73766b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T103000
+DTEND;TZID=Europe/Berlin:20270109T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 19.6\, 20.3\, 20.5\, 21.4\; Phys 4.2
+DESCRIPTION:Fragen:\nAna 19.6 Die vier Herzklappen\nAna 20.3 Venöser Abf
+ luss aus dem Herzmuskel\nAna 20.5 Verlauf der Koronararterien\nAna 21.4 
+ Vegetative Innervation des Herzens\nPhys 4.2 Vegetative Herzinnervation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94fe92fe356213f9cbc8b19281f26791@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T114500
+DTEND;TZID=Europe/Berlin:20270109T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 10.5\, 19.1\, 19.2\, 21.
+ 1\, 21.3\; Phys 2.1\, 4.1\, 4.3\, 4.4\, 4.5\, 4.6\, 12.1
+DESCRIPTION:Fragen:\nAna 10.5 Varizen der unteren Extremität\nAna 19.1 H
+ erzzyklus\, Herztöne und Geräusche\nAna 19.2 Herzwand und Herzmuskelhi
+ stologie\nAna 21.1 Gliederung des Mediastinums\nAna 21.3 Projektion und 
+ Auskultation der Herzklappen\nPhys 2.1 Aufbau des VNS\nPhys 4.1 Elektrop
+ hysiologie des Herzens\nPhys 4.3 Elektromechanische Kopplung\nPhys 4.4 E
+ ntstehung des EKG\nPhys 4.5 Der Herzzyklus\nPhys 4.6 Regulation der Herz
+ tätigkeit\nPhys 12.1 Akute Leistungsanpassung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6dfdfb4ea2dca7bf389d24afef71ab@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T131500
+DTEND;TZID=Europe/Berlin:20270109T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Mediastinum\, Präparation und Entnahme des Herze
+ ns
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e0a32e5b2347b743e13bff0f789634e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T140500
+DTEND;TZID=Europe/Berlin:20270109T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:12908d4b9d0f6e8375f193466e43b6f9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270109T142000
+DTEND;TZID=Europe/Berlin:20270109T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Phys 5.8 Nieder
+ drucksystem\, Ana 18.5 Venöser Rückstrom
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 5.8 Niede
+ rdrucksystem\nAna 18.5 Venöser Rückstrom
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd5f09910e159254b4e1f7ead57f7d2f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270110T090000
+DTEND;TZID=Europe/Berlin:20270110T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 19.1 (Rest)\; Phys 4.1 
+ (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1a0ec97e990dadb87d3871c647901c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270110T103000
+DTEND;TZID=Europe/Berlin:20270110T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:45b6959a7b0656d02d300d4fea07cc51@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270110T110000
+DTEND;TZID=Europe/Berlin:20270110T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c94ebe44bdc97b53060152f95c63248@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270110T140000
+DTEND;TZID=Europe/Berlin:20270110T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba296f8ae65a7f385c0f190a132b7d1e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270110T143000
+DTEND;TZID=Europe/Berlin:20270110T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8af649e24d259e2f807ecd696db8c04@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270111T180000
+DTEND;TZID=Europe/Berlin:20270111T191500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 4.1 (Rest)\, 4.3\; Ana
+  18.4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.\nHeute nicht geschafft\, auf Samstag: Anatomie-Liste (30 m
+ in)\, Vorlesung lesen + 3-Punkte-Abruf (30 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f47b838287e6ebcd28c1c7aea2d369c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270111T192000
+DTEND;TZID=Europe/Berlin:20270111T203500
+SUMMARY:MSC: Phys 5.4 Pressosensorenreflex\, Phys 5.5 Blutdruckregulation
+ \, Phys 5.2 Biophysik des Blutstroms
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 5.4 Press
+ osensorenreflex\nPhys 5.5 Blutdruckregulation\nPhys 5.2 Biophysik des Bl
+ utstroms
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:02b8ca4de548591d0c647778cb3c7b94@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T101500
+DTEND;TZID=Europe/Berlin:20270112T113000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 18.4 (Rest)\, 19.5 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f8dd5ec7eed7dc51f5d2e07e016a82@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T113500
+DTEND;TZID=Europe/Berlin:20270112T123000
+SUMMARY:MSC: Phys 2.3 Anpassung an Außeneinflüsse · Wdh.: Phys 5.3 Hoc
+ hdrucksystem
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 2.3 Anpas
+ sung an Außeneinflüsse\n[Wdh.] Phys 5.3 Hochdrucksystem
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:869f0d003e95f60de0484fc6a07d1233@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T130000
+DTEND;TZID=Europe/Berlin:20270112T132000
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbe8714214e93b00f5de7513b34907e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T132500
+DTEND;TZID=Europe/Berlin:20270112T135500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Koronargefäße\, Eröffnung des Herzens\, Herzkl
+ appen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3700959825f2e3157cf5ef119fc95599@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T140000
+DTEND;TZID=Europe/Berlin:20270112T143000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Regulation von Blutdruck und Blutv
+ olumen\nSeminar 3.1: Das arterielle System: hoher Druck und hoher Widers
+ tand\nSeminar 3.2: Zentrale Kreislaufregulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:354bbebcc20001cae9252bd217f52014@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T111500
+DTEND;TZID=Europe/Berlin:20270113T114500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 19.5 (Rest)\, 21.1\, 21
+ .2 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews imm
+ er zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05e89d92f84ead756f151aeb17366148@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T141500
+DTEND;TZID=Europe/Berlin:20270113T150000
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d15c4edacaaf77b8d5eed0137a04cb@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T150500
+DTEND;TZID=Europe/Berlin:20270113T162000
+SUMMARY:MSC: Ana 20.1 Erregungsleitungssystem und seine Versorgung
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 20.1 Erreg
+ ungsleitungssystem und seine Versorgung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:83c5c6561a4bbdbf03800cf9cfe9d939@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T162500
+DTEND;TZID=Europe/Berlin:20270113T165500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Koronargefäße\, Eröffnung des Herzens\, Herzkl
+ appen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c2174aef8c1c0cca8c6033cf6172f57b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T170000
+DTEND;TZID=Europe/Berlin:20270113T173000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Regulation von Blutdruck und Blutv
+ olumen\nSeminar 3.1: Das arterielle System: hoher Druck und hoher Widers
+ tand\nSeminar 3.2: Zentrale Kreislaufregulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4182436feac633ff9b81eb4b78c7a127@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T204500
+DTEND;TZID=Europe/Berlin:20270113T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:14a1706d0ebdbcac115ea28c7565e6c1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270114T114500
+DTEND;TZID=Europe/Berlin:20270114T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Koronargefäße\, Eröffnung des Herzens\, Herzkl
+ appen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5bdc203a6571581047df323af990e9bd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270114T130000
+DTEND;TZID=Europe/Berlin:20270114T140000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 21.2 (Rest)\, 21.3 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fee7addcec2b4c4edbbaf77e695a3f6d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270114T180000
+DTEND;TZID=Europe/Berlin:20270114T181500
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f838766cf45e2fb06541d6ecc8575d05@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270114T182000
+DTEND;TZID=Europe/Berlin:20270114T193500
+SUMMARY:MSC: Ana 18.2 Strukturwandel und adulte Relikte\, Ana 18.3 Tastba
+ re periphere Gefäße\, Ana 20.2 Links- und Rechtsversorgungstyp
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 18.2 Struk
+ turwandel und adulte Relikte\nAna 18.3 Tastbare periphere Gefäße\nAna 
+ 20.2 Links- und Rechtsversorgungstyp
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:20a00291d08de02fa74093a25d6c44a4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270114T194000
+DTEND;TZID=Europe/Berlin:20270114T201000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Regulation von Blutdruck und Blutv
+ olumen\nSeminar 3.1: Das arterielle System: hoher Druck und hoher Widers
+ tand\nSeminar 3.2: Zentrale Kreislaufregulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b61a96716f0be29b3ba5132f6abfd5f5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270115T080000
+DTEND;TZID=Europe/Berlin:20270115T083000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 21.3 (Rest)\, 21.5 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb78e65ab624c19bc1074d0907dabf2a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270115T103000
+DTEND;TZID=Europe/Berlin:20270115T111500
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:625d3d307d82ca419e479fb462b7d7d9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270115T112000
+DTEND;TZID=Europe/Berlin:20270115T123000
+SUMMARY:MSC: Ana 20.4\; Phys 5.6 · Wdh. Ana 20.5\; Bio 3.3
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 20.4 Hinte
+ rwandinfarkt\nPhys 5.6 Organperfusion\n[Wdh.] Ana 20.5 Verlauf der Koron
+ ararterien\n[Wdh.] Bio 3.3 Atherosklerose
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c70798f0c5a9219be246475e249e00@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270115T130000
+DTEND;TZID=Europe/Berlin:20270115T133000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Koronargefäße\, Eröffnung des Herzens\, Herzkl
+ appen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0af238ca3514c49dce8029db8f0586@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270115T154500
+DTEND;TZID=Europe/Berlin:20270115T161500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 3.3: Angebot und Nachfrage: die periphere Dur
+ chblutungsregelung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:67cb0ecbdd512bdfc5fdf36d6dee7630@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270116T090000
+DTEND;TZID=Europe/Berlin:20270116T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 21.5 (Rest)\, 21.6\, 21
+ .7 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews imm
+ er zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e47ebe654c4c3c457a4eb4d81fb8b7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270116T103000
+DTEND;TZID=Europe/Berlin:20270116T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 18.2\, 18.3\, 20.1\, 20.2\, 20.4\; Phys 2.3\, 5.2\, 5.4\, 5.5\, 5.6
+DESCRIPTION:Fragen:\nAna 18.2 Strukturwandel und adulte Relikte\nAna 18.3
+  Tastbare periphere Gefäße\nAna 20.1 Erregungsleitungssystem und seine
+  Versorgung\nAna 20.2 Links- und Rechtsversorgungstyp\nAna 20.4 Hinterwa
+ ndinfarkt\nPhys 2.3 Anpassung an Außeneinflüsse\nPhys 5.2 Biophysik de
+ s Blutstroms\nPhys 5.4 Pressosensorenreflex\nPhys 5.5 Blutdruckregulatio
+ n\nPhys 5.6 Organperfusion
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e0ee1e0365655290def81a18ad683c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270116T114500
+DTEND;TZID=Europe/Berlin:20270116T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 18.1\, 18.5\, 18.6\, 19.
+ 4\, 19.6\, 20.3\, 21.2\; Bio 3.3\, 3.6\; Phys 5.8\, 11.3
+DESCRIPTION:Fragen:\nAna 18.1 Kreislaufumstellung bei der Geburt\nAna 18.
+ 5 Venöser Rückstrom\nAna 18.6 Aufbau und Besonderheiten der Aorta\nAna
+  19.4 Frühe Herzentwicklung\nAna 19.6 Die vier Herzklappen\nAna 20.3 Ve
+ nöser Abfluss aus dem Herzmuskel\nAna 21.2 Die großen Gefäße im Medi
+ astinum\nBio 3.3 Atherosklerose\nBio 3.6 Infarktdiagnostik\nPhys 5.8 Nie
+ derdrucksystem\nPhys 11.3 Wärmeabgabe
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c601dfffcb6f72f2b159ff3fbc8acd1a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270116T131500
+DTEND;TZID=Europe/Berlin:20270116T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation Koronargefäße\, Eröffnung des Herzens\, Herzkl
+ appen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9483d2929a8705dd0a8aee7665602f5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270116T140500
+DTEND;TZID=Europe/Berlin:20270116T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e4431649ccb99368fc1eb26b8ae6131@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270116T142000
+DTEND;TZID=Europe/Berlin:20270116T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Wdh.: Ana 20.5 
+ Verlauf der Koronararterien
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\n[Wdh.] Ana 20.
+ 5 Verlauf der Koronararterien
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c04fe9bcbc6c95440e6eeca78aeba7bc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270117T090000
+DTEND;TZID=Europe/Berlin:20270117T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 21.7 (Rest)\, 21.8 (Anf
+ ang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:834fd78643ad80a091be25ce68a98bee@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270117T103000
+DTEND;TZID=Europe/Berlin:20270117T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b02fc9ed873ee7c20b933d63adb4bf5b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270117T110000
+DTEND;TZID=Europe/Berlin:20270117T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:31b29598dc7feefd485f3f3de3bd9040@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270117T140000
+DTEND;TZID=Europe/Berlin:20270117T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbdd9986876400e6380698a0fd0b2d59@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270117T143000
+DTEND;TZID=Europe/Berlin:20270117T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a23951f08bad85077986fb08ea566d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T153000
+DTEND;TZID=Europe/Berlin:20270118T164500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 21.8 (Rest)\, 24.2\; Ph
+ ys 4.4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews
+  immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cdd11bc07f7724deb3cf5b00e753003@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T165000
+DTEND;TZID=Europe/Berlin:20270118T180500
+SUMMARY:MSC: Ana 15.1 Embryonale Darmdrehungen\, Ana 15.2 Dorsales und ve
+ ntrales Meso\, Ana 15.3 Magen\, Omentum majus\, Bursa
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 15.1 Embry
+ onale Darmdrehungen\nAna 15.2 Dorsales und ventrales Meso\nAna 15.3 Mage
+ n\, Omentum majus\, Bursa
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b29514e8ea35a226dcc67a0c024fb0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T181000
+DTEND;TZID=Europe/Berlin:20270118T184000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Bauchorgane in Situ\, Peritonealverhältnisse\, Präparation d
+ er Blutgefäße des Bauchraums I
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:94254cbc2a209242662ec9bc7cbc4bae@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T184500
+DTEND;TZID=Europe/Berlin:20270118T191500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Organisation des Verdauungssystems | Magen
+ -Darm-Motorik\nVorlesung: Microbiota des Verdauungstraktes\nSeminar 1.1:
+  Magensaftsekretion: Physiologische Regulation und Pharmakologische Inte
+ rventionen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:54abccccf4371e2ba3bc83b7fffaa30b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T101500
+DTEND;TZID=Europe/Berlin:20270119T113000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 4.4 (Rest)\, 4.2\; Ana
+  19.6 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:09aad0e349e0986822c729dbf160cdb8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T113500
+DTEND;TZID=Europe/Berlin:20270119T123000
+SUMMARY:MSC: Phys 3.1 Sekretionsmechanismen · Wdh.: Phys 3.4 Neuronale u
+ nd humorale Regulation
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 3.1 Sekre
+ tionsmechanismen\n[Wdh.] Phys 3.4 Neuronale und humorale Regulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:53203298351d35613a49af252597ade1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T130000
+DTEND;TZID=Europe/Berlin:20270119T132000
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:286d0e23030564a38c2bb90cd3ca6d05@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T132500
+DTEND;TZID=Europe/Berlin:20270119T135500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Bauchorgane in Situ\, Peritonealverhältnisse\, Präparation d
+ er Blutgefäße des Bauchraums I
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4dfc09a970e6c87db3938bf0f93aa8e6@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T140000
+DTEND;TZID=Europe/Berlin:20270119T143000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Organisation des Verdauungssystems
+  | Magen-Darm-Motorik\nVorlesung: Microbiota des Verdauungstraktes\nSemi
+ nar 1.1: Magensaftsekretion: Physiologische Regulation und Pharmakologis
+ che Interventionen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1c9c0b3023b214f9a295c5cdb63ddd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T111500
+DTEND;TZID=Europe/Berlin:20270120T123000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 19.6 (Rest)\, 20.3 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa0b242b30579c1a85e97919cf46b2e5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T130000
+DTEND;TZID=Europe/Berlin:20270120T141500
+SUMMARY:MSC: Ana 15.4 Topographie der Bursa omentalis
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 15.4 Topog
+ raphie der Bursa omentalis
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:51e9cdf78e521222ca4eb96be1604b3a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T142000
+DTEND;TZID=Europe/Berlin:20270120T145000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Bauchorgane in Situ\, Peritonealverhältnisse\, Präparation d
+ er Blutgefäße des Bauchraums I
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6bc975f39e6cee6d4d48bd883a67f9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T145500
+DTEND;TZID=Europe/Berlin:20270120T152500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Organisation des Verdauungssystems
+  | Magen-Darm-Motorik\nVorlesung: Microbiota des Verdauungstraktes\nSemi
+ nar 1.1: Magensaftsekretion: Physiologische Regulation und Pharmakologis
+ che Interventionen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:92bd90dea9260121d4a22b68061e3394@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T204500
+DTEND;TZID=Europe/Berlin:20270120T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:944f40231674b9081178b565cef06ab9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270121T114500
+DTEND;TZID=Europe/Berlin:20270121T121500
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Bauchorgane in Situ\, Peritonealverhältnisse\, Präparation d
+ er Blutgefäße des Bauchraums I
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:144a2999435a940848889ea9e99b59d5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270121T130000
+DTEND;TZID=Europe/Berlin:20270121T141500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 20.3 (Rest)\, 20.5 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:13ea6d0db5622aacf084718c75b7a268@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270121T153000
+DTEND;TZID=Europe/Berlin:20270121T160000
+SUMMARY:MSC: Ana 14.1 behandelt das oberste\, 14.2 das mittlere.\, Ana 14
+ .2 Topographie Unterbauchsitus
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 14.1 behan
+ delt das oberste\, 14.2 das mittlere.\nAna 14.2 Topographie Unterbauchsi
+ tus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c47ffc1cc3f7ad4be733e3ecc577cb8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270121T180000
+DTEND;TZID=Europe/Berlin:20270121T184500
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:97b1b90ddf0b827d69573437ff8ceb7e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270121T185000
+DTEND;TZID=Europe/Berlin:20270121T192000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Organisation des Verdauungssystems
+  | Magen-Darm-Motorik\nVorlesung: Microbiota des Verdauungstraktes\nSemi
+ nar 1.1: Magensaftsekretion: Physiologische Regulation und Pharmakologis
+ che Interventionen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d98aa16a8ad0dbc4179b16200501945e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T080000
+DTEND;TZID=Europe/Berlin:20270122T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 20.5 (Rest)\, 21.4\; Ph
+ ys 5.8 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews
+  immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:51ce1d74fa537f405ae31be36fb00f30@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T092000
+DTEND;TZID=Europe/Berlin:20270122T094500
+SUMMARY:MSC: Bio 4.1 Verdauung der Nährstoffe\, Bio 4.2 Proteasen im GI-
+ Trakt\, Phys 10.1 Täglicher Energieumsatz
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 4.1 Verdau
+ ung der Nährstoffe\nBio 4.2 Proteasen im GI-Trakt\nPhys 10.1 Täglicher
+  Energieumsatz
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec7d6a9f543051706e4fce7494f35003@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T154500
+DTEND;TZID=Europe/Berlin:20270122T161500
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ea47a706d934dc0f18ffde9a7cf488@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T181500
+DTEND;TZID=Europe/Berlin:20270122T183500
+SUMMARY:MSC (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:70e4e8733f6fe193c9f3963dc46b66da@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T184000
+DTEND;TZID=Europe/Berlin:20270122T191000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Bauchorgane in Situ\, Peritonealverhältnisse\, Präparation d
+ er Blutgefäße des Bauchraums I
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b6d26accfd6e08539205f12dd64f3c2@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T191500
+DTEND;TZID=Europe/Berlin:20270122T194500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 1.2: Gastritis\, Geschwürskrankheit: Rolle v
+ on MALT und Helicobacter pylori\nSeminar 1.3: Intestinale Verdauung von 
+ Kohlenhydraten\, Lipiden und Proteinen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd22ef0304c9112c51d2b3afe172ab4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270123T090000
+DTEND;TZID=Europe/Berlin:20270123T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 5.8 (Rest)\; Ana 18.5 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc1d6e0ca3a5154d35857bea758489c8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270123T103000
+DTEND;TZID=Europe/Berlin:20270123T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 14.1\, 14.2\, 15.1\, 15.2\, 15.3\, 15.4\; Bio 4.1\, 4.2\; Phys 3.1\, 1
+ 0.1
+DESCRIPTION:Fragen:\nAna 14.1 behandelt das oberste\, 14.2 das mittlere.\
+ nAna 14.2 Topographie Unterbauchsitus\nAna 15.1 Embryonale Darmdrehungen
+ \nAna 15.2 Dorsales und ventrales Meso\nAna 15.3 Magen\, Omentum majus\,
+  Bursa\nAna 15.4 Topographie der Bursa omentalis\nBio 4.1 Verdauung der 
+ Nährstoffe\nBio 4.2 Proteasen im GI-Trakt\nPhys 3.1 Sekretionsmechanism
+ en\nPhys 10.1 Täglicher Energieumsatz
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d5c1372730daf2ab1ffeaa83156f2f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270123T114500
+DTEND;TZID=Europe/Berlin:20270123T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 17.1\; Bio 1.4\; Phys 3.
+ 3\, 3.4
+DESCRIPTION:Fragen:\nAna 17.1 Präparat Magen-Darm-Kanal\nBio 1.4 Barrier
+ efunktion\nPhys 3.3 Motilitätsmuster\nPhys 3.4 Neuronale und humorale R
+ egulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2042cfe5c13c17c8b067d3b87ac26282@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270123T131500
+DTEND;TZID=Europe/Berlin:20270123T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Bauchorgane in Situ\, Peritonealverhältnisse\, Präparation d
+ er Blutgefäße des Bauchraums I
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:555e2d5eaa4770bfb670bb033dab5365@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270123T140500
+DTEND;TZID=Europe/Berlin:20270123T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac01afc45f96d8fb88ddc2134212733@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270123T142000
+DTEND;TZID=Europe/Berlin:20270123T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Phys 10.2 Energ
+ etisches Äquivalent · Wdh.: Ana 17.1 Präparat Magen-Darm-Kanal
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 10.2 Ener
+ getisches Äquivalent\n[Wdh.] Ana 17.1 Präparat Magen-Darm-Kanal
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:05b5e361b41ba030806e05fadbc70bed@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270124T090000
+DTEND;TZID=Europe/Berlin:20270124T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 18.5 (Rest)\; Phys 5.4\
+ , 5.5\, 5.2 (Anfang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c972143b58719c6bba838b6f1500b062@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270124T103000
+DTEND;TZID=Europe/Berlin:20270124T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d4aa820280171799f6ed460e75486cf7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270124T110000
+DTEND;TZID=Europe/Berlin:20270124T130000
+SUMMARY:Puffer\, sonst Altthemen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b67c3465bddfbf8e3928924e8f17abc5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270124T140000
+DTEND;TZID=Europe/Berlin:20270124T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:836db834bacbde527b4b0873adcb14c1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270124T143000
+DTEND;TZID=Europe/Berlin:20270124T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb4381483ba29cb027bc8ace3baf6b0@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270125T174500
+DTEND;TZID=Europe/Berlin:20270125T190000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 5.2 (Rest)\, 2.3\; Ana
+  20.1 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.\nHeute nicht geschafft\, auf Samstag: Vorlesung lesen + 3-
+ Punkte-Abruf (30 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7b2df80e51b09e67d2caac4d8d0ebdf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270125T190500
+DTEND;TZID=Europe/Berlin:20270125T202000
+SUMMARY:MSC: Phys 10.4 Regulation der Nahrungsaufnahme\, Bio 4.3 Hunger u
+ nd Sättigung\, Phys 3.2 Resorptionsmechanismen
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nPhys 10.4 Regu
+ lation der Nahrungsaufnahme\nBio 4.3 Hunger und Sättigung\nPhys 3.2 Res
+ orptionsmechanismen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9fdb8486cf0ebc58ba590852d4cf81@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270125T202500
+DTEND;TZID=Europe/Berlin:20270125T205500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Blutgefäße des Bauchraums II und der Leber\
+ , vegetative Innervation der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1d68f3cd25e45f4ad1bf4fd522151c3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270126T101500
+DTEND;TZID=Europe/Berlin:20270126T113000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 20.1 (Rest)\, 18.2 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b5c84261dc798a040c456b5418b4d2a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270126T113500
+DTEND;TZID=Europe/Berlin:20270126T123000
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae506b6ac4a3039db8a3240f1093c8de@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270126T130000
+DTEND;TZID=Europe/Berlin:20270126T132000
+SUMMARY:MSC-Block (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:56cffc574af340b471960cbf97826734@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270126T132500
+DTEND;TZID=Europe/Berlin:20270126T135500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Blutgefäße des Bauchraums II und der Leber\
+ , vegetative Innervation der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:69b7af8c37c472c0a2d1f580a86b821c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270126T140000
+DTEND;TZID=Europe/Berlin:20270126T143000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Du bist\, was du isst – du isst\
+ , was du bist. Grundlagen des Ernährungsverhaltens\nVorlesung: Satt und
+  zufrieden? Mechanismen der Hunger-Sättigungsregulation\nSeminar 2.2: R
+ esorption und Malabsorption von Nährstoffen\nSeminar 2.3: Klinische und
+  molekulare Grundlagen der Gewichtsregulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae07864a54f5d74b684ad5bac4c6b628@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270127T094500
+DTEND;TZID=Europe/Berlin:20270127T110000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 18.2 (Rest)\, 18.3 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:054be4b819d4f3c12dcd8038713b9484@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270127T110500
+DTEND;TZID=Europe/Berlin:20270127T122000
+SUMMARY:MSC: Ana 15.5 Omentum minus\, Ana 15.6 Mesenterium
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 15.5 Oment
+ um minus\nAna 15.6 Mesenterium
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2140071a5530d4feda513de713a56388@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270127T130000
+DTEND;TZID=Europe/Berlin:20270127T133000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Blutgefäße des Bauchraums II und der Leber\
+ , vegetative Innervation der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a3518f84b78b3e8553f6c13e72d959e@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270127T133500
+DTEND;TZID=Europe/Berlin:20270127T140500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Du bist\, was du isst – du isst\
+ , was du bist. Grundlagen des Ernährungsverhaltens\nVorlesung: Satt und
+  zufrieden? Mechanismen der Hunger-Sättigungsregulation\nSeminar 2.2: R
+ esorption und Malabsorption von Nährstoffen\nSeminar 2.3: Klinische und
+  molekulare Grundlagen der Gewichtsregulation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2fc4b1cf3a480dbc79a02e4952e3f3@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270127T204500
+DTEND;TZID=Europe/Berlin:20270127T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3072e2f0a9b053a68633f7dcd7caf91b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270128T133000
+DTEND;TZID=Europe/Berlin:20270128T140000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Blutgefäße des Bauchraums II und der Leber\
+ , vegetative Innervation der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:631794cc34d0a0caac41ec8611c547fd@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270128T160000
+DTEND;TZID=Europe/Berlin:20270128T171500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 18.3 (Rest)\, 20.2\, 20
+ .4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews imm
+ er zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c394f35eac73ef65aecf0da10da43f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270128T172000
+DTEND;TZID=Europe/Berlin:20270128T183500
+SUMMARY:MSC: Ana 16.1 Magen\, Ana 16.2 Leber\, Ana 16.5 Dünndarm
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 16.1 Magen
+ \nAna 16.2 Leber\nAna 16.5 Dünndarm
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:118355ac29c72a04fd630cf79fc089e5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270128T184000
+DTEND;TZID=Europe/Berlin:20270128T191000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 2.1: Biochemie und Pathobiochemie des Nukleot
+ idstoffwechsels
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:64fa2a0dd803b95e42ac91c103a33a0f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270129T143000
+DTEND;TZID=Europe/Berlin:20270129T154500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 20.4 (Rest)\; Phys 5.6 
+ (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer 
+ zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c6e18ae70f7e0c7b59783354599c572@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270129T155000
+DTEND;TZID=Europe/Berlin:20270129T170500
+SUMMARY:MSC: Ana 16.8 Lebermetastasen\, Bio 4.4 Nukleotidsynthese · Wdh.
+ : Ana 16.9 Vegetative Innervation
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 16.8 Leber
+ metastasen\nBio 4.4 Nukleotidsynthese\n[Wdh.] Ana 16.9 Vegetative Innerv
+ ation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d980bda8eb18c86f847713d4c079523f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270129T171000
+DTEND;TZID=Europe/Berlin:20270129T174000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Blutgefäße des Bauchraums II und der Leber\
+ , vegetative Innervation der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b443967065a1e46627f11d3dc1b297d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270129T174500
+DTEND;TZID=Europe/Berlin:20270129T181500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Du bist\, was du isst – du isst\
+ , was du bist. Grundlagen des Ernährungsverhaltens\nVorlesung: Satt und
+  zufrieden? Mechanismen der Hunger-Sättigungsregulation\nSeminar 2.2: R
+ esorption und Malabsorption von Nährstoffen\nSeminar 2.3: Klinische und
+  molekulare Grundlagen der Gewichtsregulation\nSeminar 2.1: Biochemie un
+ d Pathobiochemie des Nukleotidstoffwechsels
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa833d1668bb99b303f6b7a599012dc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T090000
+DTEND;TZID=Europe/Berlin:20270130T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 5.6 (Rest)\; Ana 15.1\
+ , 15.2 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews
+  immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5872c01424786a2e44214bf23b76f63f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T103000
+DTEND;TZID=Europe/Berlin:20270130T114500
+SUMMARY:MSC-Woche abschließen\, frei beantworten und in MSC bewerten: An
+ a 15.5\, 15.6\, 16.1\, 16.2\, 16.5\, 16.8\; Bio 4.3\, 4.4\; Phys 3.2\, 1
+ 0.4
+DESCRIPTION:Fragen:\nAna 15.5 Omentum minus\nAna 15.6 Mesenterium\nAna 16
+ .1 Magen\nAna 16.2 Leber\nAna 16.5 Dünndarm\nAna 16.8 Lebermetastasen\n
+ Bio 4.3 Hunger und Sättigung\nBio 4.4 Nukleotidsynthese\nPhys 3.2 Resor
+ ptionsmechanismen\nPhys 10.4 Regulation der Nahrungsaufnahme
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b2d9dc3fcdd58ac98887f1d4fdf23f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T114500
+DTEND;TZID=Europe/Berlin:20270130T123000
+SUMMARY:MSC „Auch berührt“ wiederholen: Ana 14.1\, 14.2\; Bio 3.3\, 
+ 4.1\; Phys 3.1\, 3.4\, 10.3
+DESCRIPTION:Fragen:\nAna 14.1 behandelt das oberste\, 14.2 das mittlere.\
+ nAna 14.2 Topographie Unterbauchsitus\nBio 3.3 Atherosklerose\nBio 4.1 V
+ erdauung der Nährstoffe\nPhys 3.1 Sekretionsmechanismen\nPhys 3.4 Neuro
+ nale und humorale Regulation\nPhys 10.3 Energiebedarf und Nahrung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:050a8bfaa4fe2a3bda39880d20101559@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T131500
+DTEND;TZID=Europe/Berlin:20270130T140500
+SUMMARY:Anatomie: 2 Strukturen + leere Tabelle der Wochenliste
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Präparation der Blutgefäße des Bauchraums II und der Leber\
+ , vegetative Innervation der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c121cbaddb9983a6c86d058d894de56@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T140500
+DTEND;TZID=Europe/Berlin:20270130T141500
+SUMMARY:3-Punkte-Zettel der Woche
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d4edefb9689754b44e48a53c4d91d7a1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270130T142000
+DTEND;TZID=Europe/Berlin:20270130T153500
+SUMMARY:Fragen\, die unter der Woche nicht gepasst haben: Bio 4.5 Folsäu
+ re und Proliferation\, Bio 4.6 Hyperurikämie · Wdh.: Ana 17.2 Präpara
+ t Bauchorgan
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 4.5 Folsä
+ ure und Proliferation\nBio 4.6 Hyperurikämie\n[Wdh.] Ana 17.2 Präparat
+  Bauchorgan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5006b33a7945ca19e0a65e07f9eea9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270131T090000
+DTEND;TZID=Europe/Berlin:20270131T101500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 15.2 (Rest)\, 15.3 (Anf
+ ang)\nFällige Reviews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:209e51df35e81ef035701af7ac44f286@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270131T103000
+DTEND;TZID=Europe/Berlin:20270131T110000
+SUMMARY:MSC: alle Fragen mit „nochmal“ oder „unsicher“
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6df73510648d0a9d6cb5f1e92d142d4c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270131T110000
+DTEND;TZID=Europe/Berlin:20270131T130000
+SUMMARY:MSC-Fragen: Bio 3.1 Trübes Plasma\, Bio 3.2 Hypercholesterinämi
+ e
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 3.1 Trübe
+ s Plasma\nBio 3.2 Hypercholesterinämie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0795f996099a40718299d9eadd87e86f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270131T140000
+DTEND;TZID=Europe/Berlin:20270131T143000
+SUMMARY:MSC-Simulator: ein mündlicher Durchlauf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f93f3e3af8d75b84fa7bc0d0e21f83e7@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270131T143000
+DTEND;TZID=Europe/Berlin:20270131T144500
+SUMMARY:neue Wochenliste anschauen und raten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab82fcd2a5f100cd2dd833a8717c595@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270201T140000
+DTEND;TZID=Europe/Berlin:20270201T151500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 15.3 (Rest)\; Phys 3.1\
+ ; Ana 15.4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Rev
+ iews immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd1c3d510b8046d64257468c0c5a76f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270201T152000
+DTEND;TZID=Europe/Berlin:20270201T163500
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:300025b98306b1d8a9dcf5ef08e3fd6f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270201T164000
+DTEND;TZID=Europe/Berlin:20270201T171000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Abschließende Präparation und Entnahme der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:50054f8d1bc5a1c8378e0655ea8fa10f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270201T171500
+DTEND;TZID=Europe/Berlin:20270201T174500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nVorlesung: Bedeutung der Mikronährstoffe und Folgen 
+ des Vitaminmangels\nVorlesung: Ernährungsumstellung - warum und wie?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ae2dc6de7fb5cc583b89a8cbdd20e8@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270202T101500
+DTEND;TZID=Europe/Berlin:20270202T111500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 15.4 (Rest)\, 14.1 (Anf
+ ang) · Prometheus 10: Strukturen von heute\nFällige Reviews immer zuer
+ st.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b658437b573cf77d1d5ed4982bd35e76@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270202T134500
+DTEND;TZID=Europe/Berlin:20270202T140000
+SUMMARY:Anki (Forts.)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1e0bff06d368af8d6541f663d62f79@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270202T140500
+DTEND;TZID=Europe/Berlin:20270202T152000
+SUMMARY:MSC-Block: frei\, Altthemen oder „nochmal“-Fragen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb1ceae1f9e39ad63062fdd00172378@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270202T152500
+DTEND;TZID=Europe/Berlin:20270202T155500
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Abschließende Präparation und Entnahme der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4af0d1f9bbd498dc23ba0079305a7640@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270202T160000
+DTEND;TZID=Europe/Berlin:20270202T163000
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bedeutung der Mikronährstoffe und
+  Folgen des Vitaminmangels\nVorlesung: Ernährungsumstellung - warum und
+  wie?
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:49e0e53a60a0562d799c1526215c0d30@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270203T080000
+DTEND;TZID=Europe/Berlin:20270203T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Ana 14.1 (Rest)\, 14.2\; Bi
+ o 4.1 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c35d8c500fca1cfd2713f2ccd01b0354@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270203T092000
+DTEND;TZID=Europe/Berlin:20270203T103500
+SUMMARY:MSC: Bio 4.7 Gluko- und ketoplastisch\, Bio 4.9 Ammoniakentgiftun
+ g\, Phys 10.5 Hungerstoffwechsel
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 4.7 Gluko-
+  und ketoplastisch\nBio 4.9 Ammoniakentgiftung\nPhys 10.5 Hungerstoffwec
+ hsel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f94430b59444fb1e55ed75531acc5e07@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270203T104000
+DTEND;TZID=Europe/Berlin:20270203T111000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Abschließende Präparation und Entnahme der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a342ceaa3d0562aa9a95cb0042c4f94@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270203T131500
+DTEND;TZID=Europe/Berlin:20270203T134500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 3.1: Die zentrale Bedeutung der Leber für de
+ n Aminosäurestoffwechsel\nSeminar 3.2: Koordination des Stoffwechsels a
+ m Beispiel des Fastens und Hungerns
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b07fc6eb9ace68af92471175364fd75d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270203T204500
+DTEND;TZID=Europe/Berlin:20270203T205500
+SUMMARY:Anatomie: Wochenliste aus dem Kopf
+DESCRIPTION:10 min Vorabruf vor dem Präpkurs.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c32c90d2bf5af99bb36b85859875caca@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270204T133000
+DTEND;TZID=Europe/Berlin:20270204T140000
+SUMMARY:Anatomie-Liste: 2 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Abschließende Präparation und Entnahme der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7951b3b3225b2f664d05060a408386de@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270204T140500
+DTEND;TZID=Europe/Berlin:20270204T152000
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Bio 4.1 (Rest)\, 4.2\; Phys
+  10.1 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews 
+ immer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbea10966d86bdec39bbc05908d0e039@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270204T152500
+DTEND;TZID=Europe/Berlin:20270204T164000
+SUMMARY:MSC: Bio 4.10 Leber und Glukose\, Bio 4.11 Energiegewinnung im Hu
+ nger\, Bio 4.8 Funktionen der Aminosäuren
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nBio 4.10 Leber
+  und Glukose\nBio 4.11 Energiegewinnung im Hunger\nBio 4.8 Funktionen de
+ r Aminosäuren
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b22c5e933078995ef60e291466213c2b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270204T164500
+DTEND;TZID=Europe/Berlin:20270204T171500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute:\nSeminar 3.3: Leber und Entgiftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5308e16e95e2d08d53245e9a2df6e985@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270205T080000
+DTEND;TZID=Europe/Berlin:20270205T091500
+SUMMARY:Anki
+DESCRIPTION:Neue Karten freischalten: MSC 45: Phys 10.1 (Rest)\, 10.2\, 1
+ 0.4 (Anfang) · Prometheus 10: Strukturen von heute\nFällige Reviews im
+ mer zuerst.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a66c4f27e510a9bceccf0256afdcb7f4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270205T092000
+DTEND;TZID=Europe/Berlin:20270205T103500
+SUMMARY:MSC: Ana 16.7\, 16.3 · Wdh. Ana 16.1\, 16.2
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 16.7 Rectu
+ m\nAna 16.3 Milz\n[Wdh.] Ana 16.1 Magen\n[Wdh.] Ana 16.2 Leber
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:55adcdc2f56c3fb6fac1fa8ad1c5b7df@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270205T104000
+DTEND;TZID=Europe/Berlin:20270205T111000
+SUMMARY:Anatomie-Liste: 3 Strukturen
+DESCRIPTION:Strukturen aus deiner Wochenliste: Ursprung\, Ansatz\, Innerv
+ ation erst aus dem Kopf\, dann mit Prometheus abgleichen.\nPräpkurs die
+ se Woche: Abschließende Präparation und Entnahme der Bauchorgane
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cac1d14d7709ad787fd01e75f017f9ff@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270205T111500
+DTEND;TZID=Europe/Berlin:20270205T114500
+SUMMARY:Vorlesung lesen + 3-Punkte-Abruf
+DESCRIPTION:Heute keine Vorlesung. Diese Woche bisher\, nimm die\, die du
+  noch nicht gelesen hast:\nVorlesung: Bedeutung der Mikronährstoffe und
+  Folgen des Vitaminmangels\nVorlesung: Ernährungsumstellung - warum und
+  wie?\nSeminar 3.1: Die zentrale Bedeutung der Leber für den Aminosäur
+ estoffwechsel\nSeminar 3.2: Koordination des Stoffwechsels am Beispiel d
+ es Fastens und Hungerns\nSeminar 3.3: Leber und Entgiftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8661d93475ed5d82d6154697ae85d49@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270206T090000
+DTEND;TZID=Europe/Berlin:20270206T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b2e4c83e58e05550bd089aad03d4063@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270206T103000
+DTEND;TZID=Europe/Berlin:20270206T123000
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:10eafb57afd30a8d00534a6fd070041c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270206T133000
+DTEND;TZID=Europe/Berlin:20270206T143000
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c40662cb9aef4f3ef7c8a2436a155a05@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270206T143000
+DTEND;TZID=Europe/Berlin:20270206T151500
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3dd902338ad4fae05cf8116b36c3ff08@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270206T152000
+DTEND;TZID=Europe/Berlin:20270206T163500
+SUMMARY:letzte MSC-Fragen: Ana 16.4 Pankreas\, Ana 16.6 Colon\, Ana 16.10
+  Portokavale Anastomosen
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 16.4 Pankr
+ eas\nAna 16.6 Colon\nAna 16.10 Portokavale Anastomosen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd1e980cf7c09e4eba9ca3f1caa6a3d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270207T090000
+DTEND;TZID=Europe/Berlin:20270207T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8ddadfa7ad893e395ade6f6c06c48a1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270207T103000
+DTEND;TZID=Europe/Berlin:20270207T123000
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9738d1c5a3c01e54a2daa3aa6fb39f@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270207T133000
+DTEND;TZID=Europe/Berlin:20270207T143000
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a547cb98d3e07c6a03967b4f3750e108@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270207T143000
+DTEND;TZID=Europe/Berlin:20270207T151500
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5f59f8b8f2fc37815234b21797efdf2@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270207T152000
+DTEND;TZID=Europe/Berlin:20270207T163500
+SUMMARY:letzte MSC-Fragen: Ana 16.11 Lymphabfluss\, Bio 4.12 Biotransform
+ ation
+DESCRIPTION:Fragen (Wortlaut in deiner MSC-Ausarbeitung):\nAna 16.11 Lymp
+ habfluss\nBio 4.12 Biotransformation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:28f8265caf52ec1b3e0d45d40ed6c924@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270208T090000
+DTEND;TZID=Europe/Berlin:20270208T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5010919f6af31e212997ae9525c8bd4a@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270208T103000
+DTEND;TZID=Europe/Berlin:20270208T114500
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:17325ee0573dbaa372f109e07bc1fd7b@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270208T130000
+DTEND;TZID=Europe/Berlin:20270208T134500
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7cef9c4837bcf536254f672ab56f5c6@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270208T135000
+DTEND;TZID=Europe/Berlin:20270208T142000
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eac08e3e6c0b7e5097fb590a1836b8d1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270209T090000
+DTEND;TZID=Europe/Berlin:20270209T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0bfaf1081bad37e1dda1fdbffec62f6@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270209T103000
+DTEND;TZID=Europe/Berlin:20270209T114500
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:00a9f8e58fcf7addc6997f92077d5423@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270209T130000
+DTEND;TZID=Europe/Berlin:20270209T134500
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb38b1a446aa51051fe87b2201668f10@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270209T135000
+DTEND;TZID=Europe/Berlin:20270209T142000
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7157ea98a7cce91f7026faa1e4c52c@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270210T090000
+DTEND;TZID=Europe/Berlin:20270210T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4418f48094730d0ea1db3b4533a1e0f9@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270210T103000
+DTEND;TZID=Europe/Berlin:20270210T114500
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a680d08c97ec3ef65f751a4e13ef2603@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270210T130000
+DTEND;TZID=Europe/Berlin:20270210T134500
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc17ac6aede0746a9198f4f2dc4f2acf@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270210T135000
+DTEND;TZID=Europe/Berlin:20270210T142000
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0367f3946996fe9b7ce2d494bfc046@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270211T090000
+DTEND;TZID=Europe/Berlin:20270211T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:168f0eb7f3a25c8770e335c1eb4a2539@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270211T103000
+DTEND;TZID=Europe/Berlin:20270211T114500
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7a912c3d63958af3d0d66e2bb82661@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270211T130000
+DTEND;TZID=Europe/Berlin:20270211T134500
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6554e56a65b71f56052c577450e47ada@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270211T135000
+DTEND;TZID=Europe/Berlin:20270211T142000
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:90f61ccbdede4b4a7033862d53ba3fc1@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270212T090000
+DTEND;TZID=Europe/Berlin:20270212T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe922c533327b9e708509132cc538ca@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270212T103000
+DTEND;TZID=Europe/Berlin:20270212T114500
+SUMMARY:Altfragen kreuzen\, gemischt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:96be4c2e7e8b160c31304d368d3ab061@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270212T130000
+DTEND;TZID=Europe/Berlin:20270212T134500
+SUMMARY:3D-Abbildungen ohne Beschriftung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:584c0459c79c23dc6954798f8abe64fc@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270212T135000
+DTEND;TZID=Europe/Berlin:20270212T142000
+SUMMARY:Fehler nacharbeiten
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4470252028f3ac94c6c4a58a3bc3a5@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270213T090000
+DTEND;TZID=Europe/Berlin:20270213T101500
+SUMMARY:Anki
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d92595af871ce30f8285eacde736dac4@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20270213T103000
+DTEND;TZID=Europe/Berlin:20270213T113000
+SUMMARY:3D-Abbildungen\, nur Schwachstellen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8eb5acf572eda565f22a3f882460ce@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Semester-MC (ca.)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
