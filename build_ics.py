@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Baut lernplan.ics aus dem Markdown-Export des Tabs „Tag für Tag“.
 
-Aufruf: python3 build_ics.py tagfuertag.md [daten.json] [lernplan.ics]
+Aufruf: python3 build_ics.py tagfuertag.md [daten.json] [lernplan.ics] [abhaken.md]
 
 Jeder Termin heißt nur „Anki“, „SMPP“, „ANATOMIE“ oder „SEMESTER“.
 Alle Details stehen geordnet in der Beschreibung.
@@ -11,6 +11,7 @@ import sys, re, json, hashlib, datetime as dt
 md_path = sys.argv[1]
 daten_path = sys.argv[2] if len(sys.argv) > 2 else 'daten.json'
 out_path = sys.argv[3] if len(sys.argv) > 3 else 'lernplan.ics'
+check_path = sys.argv[4] if len(sys.argv) > 4 else None
 with open(daten_path, encoding='utf-8') as f:
     D = json.load(f)
 FR, VER, PREP = D['fragen'], D['veranstaltungen'], D['praepkurs']
@@ -215,6 +216,24 @@ def classify(d, t, cc, notes):
         return 'SEMESTER', SEP.join(head + ['Semester-MC: ' + what])
     return 'SEMESTER', SEP.join(head + [base])
 
+# ---------- Abhaken-Liste ----------
+DONE = set()   # (datum, startzeit)
+if check_path:
+    cur = None
+    with open(check_path, encoding='utf-8') as f:
+        for line in f:
+            h = re.match(r'^\*\*(Mo|Di|Mi|Do|Fr|Sa|So) (\d\d)\.(\d\d)\.\*\*', line.strip())
+            if h:
+                mon = int(h.group(3)); cur = dt.date(2026 if mon >= 8 else 2027, mon, int(h.group(2))); continue
+            c = re.match(r'^\s*[-*] \[[xX]\] (Anki|SMPP|ANATOMIE|SEMESTER)\b(.*)$', line)
+            if c and cur:
+                head = c.group(2).split('·')[0]
+                times = re.findall(r'\d\d:\d\d', head)
+                if times:
+                    for t in times: DONE.add((cur, t))
+                elif c.group(1) == 'SEMESTER' and 'Semester-MC' in c.group(2):
+                    DONE.add((cur, None))
+
 # ---------- Kalender ----------
 L = ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Lernplan 3. Semester//DE', 'CALSCALE:GREGORIAN', 'METHOD:PUBLISH',
      'X-WR-CALNAME:Lernplan 3. Semester', 'X-WR-TIMEZONE:Europe/Berlin',
@@ -235,6 +254,8 @@ def ev(d, start, end, title, desc='', allday=False):
         dd = d.strftime('%Y%m%d')
         L.append(f'DTSTART;TZID=Europe/Berlin:{dd}T{start.replace(":", "")}00')
         L.append(f'DTEND;TZID=Europe/Berlin:{dd}T{end.replace(":", "")}00')
+    if (d, start) in DONE:
+        title += ' [erledigt]'
     L.append(fold('SUMMARY:' + esc(title)))
     if desc: L.append(fold('DESCRIPTION:' + esc(desc)))
     L.extend(['TRANSP:OPAQUE', 'END:VEVENT']); n += 1
@@ -281,4 +302,4 @@ for line in lines:
 L.append('END:VCALENDAR')
 with open(out_path, 'w', encoding='utf-8', newline='') as f:
     f.write('\r\n'.join(L) + '\r\n')
-print(n, 'Termine ->', out_path)
+print(n, 'Termine ->', out_path, '|', len(DONE), 'abgehakte Zeiten')
