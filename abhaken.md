@@ -11,15 +11,18 @@ Die Uhrzeit am Anfang jedes Punkts verbindet ihn mit dem Termin im Kalender, sie
 **Di 27.10.**
 
 - [x] Anki 14:15 + 19:00 · fällige Reviews, dann neue Karten
-- [ ] SMPP 19:20 · Ana 12.6, 9.1; Phys 12.2
+- [ ] SMPP · Ana 12.6, 9.1; Phys 12.2 → nicht geschafft, auf Mi 28.10. verschoben
 
 **Mi 28.10.**
 
-- [ ] Anki 11:15 · fällige Reviews, dann neue Karten
-- [ ] SMPP 13:00 · Phys 12.3
-- [ ] ANATOMIE 14:20 · 2 Strukturen
-- [ ] SEMESTER 14:55 · Vorlesung + 3-Punkte-Abruf
-- [ ] ANATOMIE 20:45 · Wochenliste aus dem Kopf
+- [ ] SMPP 11:15 · Ana 12.6, 9.1 (von Di)
+- [ ] ANATOMIE 12:35 · Muskeln für den Präpkurs morgen, Teil 1
+- [ ] SMPP 13:40 · Phys 12.2 (von Di), Phys 12.3
+- [ ] Anki 14:35 · fällige Reviews, dann 40 neue Karten
+- [ ] ANATOMIE 15:55 · Muskeln für den Präpkurs morgen, Teil 2
+- [ ] SEMESTER 17:00 · Vorlesung + 3-Punkte-Abruf
+- [ ] SEMESTER 17:35 · Vorlesung + 3-Punkte-Abruf (von Di)
+- [ ] ANATOMIE 18:10 · Wochenliste aus dem Kopf
 
 **Do 29.10.**
 
@@ -42,8 +45,6 @@ Die Uhrzeit am Anfang jedes Punkts verbindet ihn mit dem Termin im Kalender, sie
 - [ ] ANATOMIE 13:15 · 2 Strukturen + leere Tabelle
 - [ ] SEMESTER 14:05 · 3-Punkte-Zettel der Woche
 - [ ] SMPP 14:20 · nachholen: Ana 12.5; Phys 1.1, 1.2
-- [ ] ANATOMIE · von Di 27.10.: Anatomie-Liste
-- [ ] SEMESTER · von Di 27.10.: Vorlesung + 3-Punkte-Abruf
 
 **So 01.11.**
 

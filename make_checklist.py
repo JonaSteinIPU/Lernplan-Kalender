@@ -54,6 +54,8 @@ for line in md:
     else:
         prev = None
         for s in plan.split(' · '):
+            pre = re.match(r'^.{1,60}?:\s+(\d\d:\d\d–\d\d:\d\d .*)$', s)
+            if pre and not TM.match(s): s = pre.group(1)
             mm = TM.match(s)
             if mm:
                 a, t = mm.group(1), mm.group(3)
@@ -63,6 +65,7 @@ for line in md:
                 prev = [c, [a], (('fällige Reviews, dann neue Karten' if cols[2] not in ('', '–') else 'nur fällige Reviews') if c == 'Anki' else short(t))]; items.append(prev)
             elif s.startswith('abends 10 min'):
                 items.append(['ANATOMIE', ['20:45'], 'Wochenliste aus dem Kopf'])
+            elif s.startswith('nicht geschafft'): pass
             elif s.startswith('passt nicht'):
                 for x in s.split(':', 1)[1].strip().split(', '):
                     mins = re.search(r'\((\d+) min\)', x)

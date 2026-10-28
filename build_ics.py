@@ -177,6 +177,13 @@ def classify(d, t, cc, notes):
         n = re.search(r'(\d+) Strukturen', base)
         body = [f'Anatomie-Wochenliste: {n.group(1) if n else "2–3"} Strukturen'] + ([prep] if prep else []) + [ABLAUF_ANA]
         return 'ANATOMIE', SEP.join(head + body)
+    if base.startswith('Anatomie: Muskeln'):
+        body = ['Anatomie: ' + base.split(':', 1)[1].strip()] + ([prep] if prep else []) + [
+            'So geht’s je Muskel: raten (Ursprung, Ansatz, Innervation, Funktion), im Prometheus erarbeiten und am Skelett zeigen, Buch zu und laut abrufen, abgleichen. Danach die Prometheus-Karten dieser Muskeln freischalten.']
+        return 'ANATOMIE', SEP.join(head + body)
+    if base.startswith('Anatomie: Wochenliste aus dem Kopf'):
+        return 'ANATOMIE', SEP.join(['Anatomie: Wochenliste aus dem Kopf (15 min)',
+            'Die ganze Wochenliste ohne Nachschauen durchgehen, als Vorbereitung auf den Präpkurs.'] + ([prep] if prep else []))
     if base.startswith('Anatomie: alte Wochenlisten'):
         return 'ANATOMIE', SEP.join(head + ['Anatomie: alte Wochenlisten',
             'So geht’s: leere Tabelle (Muskel, Ursprung, Ansatz, Innervation, Funktion) aus dem Kopf füllen, dann mit Prometheus abgleichen. Lücken als Prometheus-Karten freischalten.'])
@@ -278,10 +285,14 @@ for line in lines:
         ev(d, '09:00', '09:45', 'Anki', 'Freier Tag: nur fällige Reviews, keine neuen Karten.'); continue
     items, notes, evening = [], '', False
     for s in plan.split(' · '):
+        pre = re.match(r'^.{1,60}?:\s+(\d\d:\d\d–\d\d:\d\d .*)$', s)   # Vorspann wie „7-Stunden-Tag: 11:15–…“
+        if pre and not TM.match(s): s = pre.group(1)
         mm = TM.match(s)
+        if mm and mm.group(3).startswith('Mittagspause'): continue
         if mm: items.append([mm.group(1), mm.group(2), mm.group(3)])
         elif s.startswith('abends 10 min'): evening = True
-        elif s.startswith('passt nicht'): notes = 'passt nicht in den Tag und wandert auf Samstag: ' + s.split(':', 1)[1].strip()
+        elif s.startswith(('passt nicht', 'nicht geschafft')):
+            notes = (notes + ' | ' if notes else '') + s
         elif s.startswith('danach frei'): pass
         elif items: items[-1][2] += ' · ' + s
     first_anki = True

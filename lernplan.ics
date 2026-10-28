@@ -31,11 +31,10 @@ DTSTART;TZID=Europe/Berlin:20261027T141500
 DTEND;TZID=Europe/Berlin:20261027T151500
 SUMMARY:Anki [erledigt]
 DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
- metheus).\n2. Danach neue Karten freischalten:\n• SMPP-II-Deck\, 20 Ka
- rten\, in dieser Reihenfolge:\n   – Ana 12.6 – Faszien der Rückenmu
- skulatur (Anfang)\n• Prometheus-Deck\, 10 Karten: die Strukturen von h
- eute\n\nHinweis für heute: passt nicht in den Tag und wandert auf Samst
- ag: Anatomie-Liste (30 min)\, Vorlesung lesen + 3-Punkte-Abruf (30 min)
+ metheus).\n2. Danach neue Karten freischalten:\n• – (auf Mittwoch ve
+ rschoben)\n\nHinweis für heute: nicht geschafft\, auf Mittwoch: SMPP II
+ : Ana 12.6\, 9.1\; Phys 12.2 | passt nicht\, auf Mittwoch: Anatomie-List
+ e (30 min)\, Vorlesung lesen + 3-Punkte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -49,68 +48,80 @@ DESCRIPTION:Fortsetzung des Blocks davor.\n\nAnki-Reviews\n1. Erst alle f
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:88ac87c72e0b5135f1ea2caf8957588b@lernplan-3-semester
+UID:57f69f11bf509da5927095d36515bb89@lernplan-3-semester
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=Europe/Berlin:20261027T192000
-DTEND;TZID=Europe/Berlin:20261027T203500
+DTSTART;TZID=Europe/Berlin:20261028T111500
+DTEND;TZID=Europe/Berlin:20261028T120500
 SUMMARY:SMPP
 DESCRIPTION:SMPP-II-Einstiegsfragen erarbeiten\n\nFragen:\n• Ana 12.6 
  – Faszien der Rückenmuskulatur\n• Ana 9.1 – Trendelenburg und Mus
- kelatrophie\n• Phys 12.2 – Grenzen der Leistung\n\nAblauf je Frage (
- ca. 25 min):\n1. Raten: ohne Nachschauen antworten (2 min)\n2. Verstehen
- : Kurzüberblick und MSC-Ausarbeitung lesen (10–12 min)\n3. Abrufen: A
- usarbeitung zu\, laut erzählen (5 min)\n4. Abgleichen: Lücken gezielt 
- nachfragen (3 min)\n5. Die SMPP-II-Karten der Frage freischalten (2 min)
- \n\nWortlaut der Fragen: MSC-Ausarbeitung.
+ kelatrophie\n\nAblauf je Frage (ca. 25 min):\n1. Raten: ohne Nachschauen
+  antworten (2 min)\n2. Verstehen: Kurzüberblick und MSC-Ausarbeitung le
+ sen (10–12 min)\n3. Abrufen: Ausarbeitung zu\, laut erzählen (5 min)\
+ n4. Abgleichen: Lücken gezielt nachfragen (3 min)\n5. Die SMPP-II-Karte
+ n der Frage freischalten (2 min)\n\nWortlaut der Fragen: MSC-Ausarbeitun
+ g.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:c70ad4e49936b44b111d34e5e726fdc3@lernplan-3-semester
+UID:86052d498a37b12bd4a0a9e70d3c9afc@lernplan-3-semester
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=Europe/Berlin:20261028T111500
-DTEND;TZID=Europe/Berlin:20261028T123000
+DTSTART;TZID=Europe/Berlin:20261028T123500
+DTEND;TZID=Europe/Berlin:20261028T133500
+SUMMARY:ANATOMIE
+DESCRIPTION:Anatomie: Muskeln für den Präpkurs morgen (Teil 1)\n\nPräp
+ kurs diese Woche: Anatomische Präparation | Bewegungsapparat 3\n\nSo ge
+ ht’s je Muskel: raten (Ursprung\, Ansatz\, Innervation\, Funktion)\, i
+ m Prometheus erarbeiten und am Skelett zeigen\, Buch zu und laut abrufen
+ \, abgleichen. Danach die Prometheus-Karten dieser Muskeln freischalten.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc6aed0c1795c958d992b06e2902531@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T134000
+DTEND;TZID=Europe/Berlin:20261028T143000
+SUMMARY:SMPP
+DESCRIPTION:SMPP-II-Einstiegsfragen erarbeiten\n\nFragen:\n• Phys 12.2 
+ – Grenzen der Leistung\n• Phys 12.3 – Trainierbarkeit\n\nAblauf je
+  Frage (ca. 25 min):\n1. Raten: ohne Nachschauen antworten (2 min)\n2. V
+ erstehen: Kurzüberblick und MSC-Ausarbeitung lesen (10–12 min)\n3. Ab
+ rufen: Ausarbeitung zu\, laut erzählen (5 min)\n4. Abgleichen: Lücken 
+ gezielt nachfragen (3 min)\n5. Die SMPP-II-Karten der Frage freischalten
+  (2 min)\n\nWortlaut der Fragen: MSC-Ausarbeitung.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d78c2d17dcccbffca9acaf89db42fc79@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T143500
+DTEND;TZID=Europe/Berlin:20261028T155000
 SUMMARY:Anki
 DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
- metheus).\n2. Danach neue Karten freischalten:\n• SMPP-II-Deck\, 20 Ka
+ metheus).\n2. Danach neue Karten freischalten:\n• SMPP-II-Deck\, 40 Ka
  rten\, in dieser Reihenfolge:\n   – Ana 12.6 – Faszien der Rückenmu
- skulatur (Rest)\n   – Ana 9.1 – Trendelenburg und Muskelatrophie (An
- fang)\n• Prometheus-Deck\, 10 Karten: die Strukturen von heute
+ skulatur\n   – Ana 9.1 – Trendelenburg und Muskelatrophie (Anfang)\n
+ • Prometheus-Deck\, 20 Karten: die Strukturen von heute
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5a62f7b583a036a0ba4269c1bbbbf187@lernplan-3-semester
+UID:5910ab86e11cca7fabca939dd3b9767d@lernplan-3-semester
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=Europe/Berlin:20261028T130000
-DTEND;TZID=Europe/Berlin:20261028T141500
-SUMMARY:SMPP
-DESCRIPTION:SMPP-II-Einstiegsfragen erarbeiten\n\nFragen:\n• Phys 12.3 
- – Trainierbarkeit\n\nAblauf je Frage (ca. 25 min):\n1. Raten: ohne Nac
- hschauen antworten (2 min)\n2. Verstehen: Kurzüberblick und MSC-Ausarbe
- itung lesen (10–12 min)\n3. Abrufen: Ausarbeitung zu\, laut erzählen 
- (5 min)\n4. Abgleichen: Lücken gezielt nachfragen (3 min)\n5. Die SMPP-
- II-Karten der Frage freischalten (2 min)\n\nWortlaut der Fragen: MSC-Aus
- arbeitung.
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:d6da02c1f8e884ce672662752ba7246c@lernplan-3-semester
-DTSTAMP:20261027T000000Z
-DTSTART;TZID=Europe/Berlin:20261028T142000
-DTEND;TZID=Europe/Berlin:20261028T145000
+DTSTART;TZID=Europe/Berlin:20261028T155500
+DTEND;TZID=Europe/Berlin:20261028T165500
 SUMMARY:ANATOMIE
-DESCRIPTION:Anatomie-Wochenliste: 2 Strukturen\n\nPräpkurs diese Woche: 
- Anatomische Präparation | Bewegungsapparat 3\n\nAblauf je Struktur:\n1.
-  Raten: Ursprung\, Ansatz\, Innervation aufschreiben (1 min)\n2. Erarbei
- ten im Prometheus\, am Skelett zeigen (15 min)\n3. Abrufen: Buch zu\, la
- ut sagen und zeigen (8 min)\n4. Abgleichen und korrigieren (4 min)\n5. P
- rometheus-Karten genau dieser Strukturen freischalten (2 min)
+DESCRIPTION:Anatomie: Muskeln für den Präpkurs morgen (Teil 2)\n\nPräp
+ kurs diese Woche: Anatomische Präparation | Bewegungsapparat 3\n\nSo ge
+ ht’s je Muskel: raten (Ursprung\, Ansatz\, Innervation\, Funktion)\, i
+ m Prometheus erarbeiten und am Skelett zeigen\, Buch zu und laut abrufen
+ \, abgleichen. Danach die Prometheus-Karten dieser Muskeln freischalten.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:5367738fb539559a3c6df9b9d5596d05@lernplan-3-semester
+UID:ef74d19dcd709d9483653ae79bc195cc@lernplan-3-semester
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=Europe/Berlin:20261028T145500
-DTEND;TZID=Europe/Berlin:20261028T152500
+DTSTART;TZID=Europe/Berlin:20261028T170000
+DTEND;TZID=Europe/Berlin:20261028T173000
 SUMMARY:SEMESTER
 DESCRIPTION:Vorlesungen und Seminare\n\nHeute keine Vorlesung. Nimm eine 
  aus dieser Woche\, die du noch nicht gelesen hast:\n• Vorlesung: Muske
@@ -121,12 +132,26 @@ DESCRIPTION:Vorlesungen und Seminare\n\nHeute keine Vorlesung. Nimm eine
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:8f8169a59f97851ae61b6bf16cd94f56@lernplan-3-semester
+UID:0706b86467f7e4e11e1df670a84b93f0@lernplan-3-semester
 DTSTAMP:20261027T000000Z
-DTSTART;TZID=Europe/Berlin:20261028T204500
-DTEND;TZID=Europe/Berlin:20261028T205500
+DTSTART;TZID=Europe/Berlin:20261028T173500
+DTEND;TZID=Europe/Berlin:20261028T180500
+SUMMARY:SEMESTER
+DESCRIPTION:Vorlesungen und Seminare\n\nHeute keine Vorlesung. Nimm eine 
+ aus dieser Woche\, die du noch nicht gelesen hast:\n• Vorlesung: Muske
+ larchitektur und Myofaszialer Apparat\n• Seminar 3.1: Skelettmuskelfas
+ er | Anpassung und Plastizität\n\nAblauf:\n1. Lesen und Unklares am Ran
+ d notieren (ca. 25 min)\n2. Ausarbeitung zu: die 3 wichtigsten Punkte au
+ s dem Kopf aufschreiben (3 min)\n3. Abgleichen und korrigieren (1 min)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a97dcaccb13e4eb041a890fa9aeb13d@lernplan-3-semester
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T181000
+DTEND;TZID=Europe/Berlin:20261028T182500
 SUMMARY:ANATOMIE
-DESCRIPTION:Anatomie: Wochenliste aus dem Kopf (10 min)\n\nDie ganze Woch
+DESCRIPTION:Anatomie: Wochenliste aus dem Kopf (15 min)\n\nDie ganze Woch
  enliste ohne Nachschauen durchgehen\, als Vorbereitung auf den Präpkurs
  .\n\nPräpkurs diese Woche: Anatomische Präparation | Bewegungsapparat 
  3
@@ -630,8 +655,8 @@ DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  rten\, in dieser Reihenfolge:\n   – Ana 12.3 – Eingewanderte Rumpfwa
  ndmuskulatur (Rest)\n   – Ana 12.4 – Der M. erector spinae (Anfang)\
  n• Prometheus-Deck\, 10 Karten: die Strukturen von heute\n\nHinweis f
- ür heute: passt nicht in den Tag und wandert auf Samstag: Anatomie-List
- e (30 min)\, Vorlesung lesen + 3-Punkte-Abruf (30 min)
+ ür heute: passt nicht\, auf Samstag: Anatomie-Liste (30 min)\, Vorlesun
+ g lesen + 3-Punkte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2769,9 +2794,8 @@ DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  rten\, in dieser Reihenfolge:\n   – Ana 8.2 – Bänder und Menisken (
  Rest)\n   – Ana 9.3 – Die Pes-anserinus-Gruppe\n   – Ana 10.5 – 
  Varizen der unteren Extremität (Anfang)\n• Prometheus-Deck\, 10 Karte
- n: die Strukturen von heute\n\nHinweis für heute: passt nicht in den Ta
- g und wandert auf Samstag: SMPP II (10 min)\, Vorlesung lesen + 3-Punkte
- -Abruf (30 min)
+ n: die Strukturen von heute\n\nHinweis für heute: passt nicht\, auf Sam
+ stag: SMPP II (10 min)\, Vorlesung lesen + 3-Punkte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2992,8 +3016,7 @@ DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  rten\, in dieser Reihenfolge:\n   – Ana 3.2 – Knochen und Bänder (R
  est)\n   – Ana 1.2 – Haut nach Lokalisation (Anfang)\n• Prometheus
  -Deck\, 10 Karten: die Strukturen von heute\n\nHinweis für heute: passt
-  nicht in den Tag und wandert auf Samstag: Vorlesung lesen + 3-Punkte-Ab
- ruf (30 min)
+  nicht\, auf Samstag: Vorlesung lesen + 3-Punkte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4173,9 +4196,8 @@ DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  rten\, in dieser Reihenfolge:\n   – Bio 3.5 – Myokardstoffwechsel (R
  est)\n   – Bio 3.6 – Infarktdiagnostik\n   – Bio 5.3 – Reaktive 
  Sauerstoffspezies (Anfang)\n• Prometheus-Deck\, 10 Karten: die Struktu
- ren von heute\n\nHinweis für heute: passt nicht in den Tag und wandert 
- auf Samstag: Anatomie-Liste (30 min)\, Vorlesung lesen + 3-Punkte-Abruf 
- (30 min)
+ ren von heute\n\nHinweis für heute: passt nicht\, auf Samstag: Anatomie
+ -Liste (30 min)\, Vorlesung lesen + 3-Punkte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -4350,8 +4372,8 @@ DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  s Herzens (Rest)\n   – Phys 4.3 – Elektromechanische Kopplung\n   
  – Ana 18.4 – Arterien und Venen im Vergleich (Anfang)\n• Prometheu
  s-Deck\, 10 Karten: die Strukturen von heute\n\nHinweis für heute: pass
- t nicht in den Tag und wandert auf Samstag: Anatomie-Liste (30 min)\, Vo
- rlesung lesen + 3-Punkte-Abruf (30 min)
+ t nicht\, auf Samstag: Anatomie-Liste (30 min)\, Vorlesung lesen + 3-Pun
+ kte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5316,8 +5338,7 @@ DESCRIPTION:Anki-Reviews\n1. Erst alle fälligen Reviews (SMPP II und Pro
  oms (Rest)\n   – Phys 2.3 – Anpassung an Außeneinflüsse\n   – An
  a 20.1 – Erregungsleitungssystem und seine Versorgung (Anfang)\n• Pr
  ometheus-Deck\, 10 Karten: die Strukturen von heute\n\nHinweis für heut
- e: passt nicht in den Tag und wandert auf Samstag: Vorlesung lesen + 3-P
- unkte-Abruf (30 min)
+ e: passt nicht\, auf Samstag: Vorlesung lesen + 3-Punkte-Abruf (30 min)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
